@@ -1,7 +1,15 @@
 # 補助金アプリ（Grant Match Navigator）
 
-jGrants公式APIから最新の補助金情報を取得して一覧・検索できるローカルアプリ。
+jGrants公式APIから最新の補助金情報を取得して一覧・検索できるアプリ。
 マキノヤ先生のYouTube最新情報も合わせて表示する。
+
+## Web版（URLを知っている人が使える）
+
+**https://watanabemari1204.github.io/hojokin-app/**
+
+- サーバー不要。GitHub Actionsが毎朝9:00(JST)にjGrants＋動画情報を取得して
+  `data/` のスナップショットを更新し、Webページはそれを表示する
+- 手動更新はGitHubの Actions タブ →「補助金データ自動更新」→ Run workflow
 
 ## 構成
 

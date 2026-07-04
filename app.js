@@ -1167,9 +1167,12 @@ function isAdministrativeEntry(item) {
 
 async function syncJGrantsCatalog() {
   try {
-    const endpoint = location.protocol === "file:"
-      ? "http://127.0.0.1:4178/api/jgrants"
-      : "/api/jgrants";
+    // github.io（Web公開版）ではサーバーが無いため、GitHub Actionsが毎朝保存するスナップショットを読む
+    const endpoint = location.hostname.endsWith("github.io")
+      ? "data/jgrants_snapshot.json"
+      : location.protocol === "file:"
+        ? "http://127.0.0.1:4178/api/jgrants"
+        : "/api/jgrants";
     let payload;
     try {
       const response = await fetch(endpoint, { cache: "no-store" });
@@ -1398,9 +1401,11 @@ function renderLatestNews() {
 async function syncMakinoyaDailyNews() {
   const status = document.querySelector("#newsSourceStatus");
   try {
-    const endpoint = location.protocol === "file:"
-      ? "http://127.0.0.1:4178/api/makinoya-feed"
-      : "/api/makinoya-feed";
+    const endpoint = location.hostname.endsWith("github.io")
+      ? "data/news_snapshot.json"
+      : location.protocol === "file:"
+        ? "http://127.0.0.1:4178/api/makinoya-feed"
+        : "/api/makinoya-feed";
     const response = await fetch(endpoint, { cache: "no-store" });
     if (!response.ok) throw new Error("feed unavailable");
     const payload = await response.json();
