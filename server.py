@@ -8,6 +8,7 @@ import html
 import json
 import os
 import re
+import subprocess
 import xml.etree.ElementTree as ET
 
 
@@ -27,6 +28,7 @@ PREFECTURES = (
     "熊本県", "大分県", "宮崎県", "鹿児島県", "沖縄県",
 )
 JGRANTS_CACHE = {"expires_at": datetime.min, "payload": None}
+CLAUDE_BIN = os.path.expanduser("~/.local/bin/claude")
 DATA_DIR = ROOT / "data"
 JGRANTS_SNAPSHOT = DATA_DIR / "jgrants_snapshot.json"
 NEWS_SNAPSHOT = DATA_DIR / "news_snapshot.json"
@@ -199,7 +201,74 @@ def fetch_jgrants(force=False):
     return payload
 
 
+# ローカル版のAIコンサル: APIキー不要で、この端末のClaude Code（ログイン済みCLI）を使う。
+# 補助楽(grant-form-writer)で実証済みの方式。Web版(github.io)はキー持ち込み式のまま。
+def run_claude_cli(prompt, timeout=560):
+    env = {key: value for key, value in os.environ.items() if not key.startswith("CLAUDE")}
+    env.setdefault("HOME", os.path.expanduser("~"))
+    result = subprocess.run(
+        [CLAUDE_BIN, "-p", prompt],
+        capture_output=True,
+        text=True,
+        timeout=timeout,
+        cwd=str(ROOT),
+        env=env,
+    )
+    if result.returncode != 0:
+        raise RuntimeError((result.stderr or "claude CLIの実行に失敗しました")[-500:])
+    return result.stdout
+
+
+def parse_ai_json(text):
+    cleaned = re.sub(r"```(?:json)?", "", text)
+    match = re.search(r"\{[\s\S]*\}", cleaned)
+    if not match:
+        raise ValueError("AI出力からJSONを取り出せませんでした")
+    return json.loads(match.group(0))
+
+
+def handle_consult(payload):
+    system = (payload.get("system") or "").strip()
+    user = (payload.get("user") or "").strip()
+    schema = payload.get("schema")
+    if not user:
+        raise ValueError("userが空です")
+    prompt = f"{system}\n\n{user}"
+    if schema:
+        prompt += (
+            "\n\n出力は必ずJSONのみ。前置き・後書き・コードブロック記号は書かない。"
+            "次のJSONスキーマに厳密に従うこと:\n" + json.dumps(schema, ensure_ascii=False)
+        )
+    output = run_claude_cli(prompt)
+    if schema:
+        return {"json": parse_ai_json(output)}
+    return {"text": output.strip()}
+
+
 class Handler(SimpleHTTPRequestHandler):
+    def do_POST(self):
+        path = urlparse(self.path).path
+        if path != "/api/consult":
+            self.send_response(404)
+            self.end_headers()
+            return
+        try:
+            length = int(self.headers.get("Content-Length", "0"))
+            payload = json.loads(self.rfile.read(length) or b"{}")
+            body = json.dumps(handle_consult(payload), ensure_ascii=False).encode("utf-8")
+            self.send_response(200)
+        except subprocess.TimeoutExpired:
+            body = json.dumps({"error": "AIの応答が時間内に返りませんでした。もう一度実行してください。"}, ensure_ascii=False).encode("utf-8")
+            self.send_response(504)
+        except Exception as error:
+            body = json.dumps({"error": str(error)}, ensure_ascii=False).encode("utf-8")
+            self.send_response(502)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        self.send_header("Cache-Control", "no-store")
+        self.send_header("Content-Length", str(len(body)))
+        self.end_headers()
+        self.wfile.write(body)
+
     def do_GET(self):
         path = urlparse(self.path).path
         if path == "/api/makinoya-feed":

@@ -207,14 +207,40 @@ improvementsには「加点項目不足」「賃上げ計画が弱い」「DX効
     persist();
   }
 
-  // ---------- Claude API（ブラウザ直接呼び出し・キー持ち込み式） ----------
+  // ---------- Claude呼び出し ----------
+  // 1) APIキーがあれば直接Claude APIへ（Web版・ローカル版共通）
+  // 2) キーが無くてもローカル版（127.0.0.1）は /api/consult 経由でこの端末のClaude Codeを使う（キー不要）
+  const IS_LOCAL = location.hostname === "127.0.0.1" || location.hostname === "localhost";
+
   function getApiKey() {
     return localStorage.getItem(API_KEY_STORE) || "";
   }
 
-  async function callClaude({ system, user, schema, maxTokens = 16000, onProgress }) {
+  async function callClaude(options) {
+    if (getApiKey()) return callClaudeDirect(options);
+    if (IS_LOCAL) return callClaudeLocal(options);
+    throw new Error("APIキーが未設定です。右上の「API設定」から登録してください。（Macの補助金アプリならキー無しで使えます）");
+  }
+
+  async function callClaudeLocal({ system, user, schema, onProgress }) {
+    const ticker = onProgress ? setInterval(() => onProgress(0), 1000) : null;
+    try {
+      const response = await fetch("/api/consult", {
+        method: "POST",
+        headers: { "content-type": "application/json" },
+        body: JSON.stringify({ system, user, schema: schema || null }),
+      });
+      let data = null;
+      try { data = await response.json(); } catch (error) { /* 非JSON応答 */ }
+      if (!response.ok || !data || data.error) throw new Error((data && data.error) || `ローカルAIエラー (${response.status})`);
+      return schema ? data.json : data.text;
+    } finally {
+      if (ticker) clearInterval(ticker);
+    }
+  }
+
+  async function callClaudeDirect({ system, user, schema, maxTokens = 16000, onProgress }) {
     const key = getApiKey();
-    if (!key) throw new Error("APIキーが未設定です。右上の「API設定」から登録してください。");
     const body = {
       model: CLAUDE_MODEL,
       max_tokens: maxTokens,
@@ -613,8 +639,17 @@ ${section.body}`;
   }
 
   function renderApiStatus() {
-    el("consultApiStatus").textContent = getApiKey() ? "APIキー設定済み" : "APIキー未設定";
-    el("consultApiStatus").classList.toggle("is-missing", !getApiKey());
+    const status = el("consultApiStatus");
+    if (getApiKey()) {
+      status.textContent = "APIキー設定済み";
+      status.classList.remove("is-missing");
+    } else if (IS_LOCAL) {
+      status.textContent = "この端末のClaudeで動作中（キー不要）";
+      status.classList.remove("is-missing");
+    } else {
+      status.textContent = "APIキー未設定";
+      status.classList.add("is-missing");
+    }
   }
 
   function renderAll() {
