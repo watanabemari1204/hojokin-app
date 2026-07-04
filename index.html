@@ -74,6 +74,7 @@
         <a href="#search">検索</a>
         <a href="#application-prep">要件確認・10案生成</a>
         <a href="#optimizer">採択額シミュレーション</a>
+        <a href="#consultant">AIコンサル</a>
         <a href="#sources">情報ソース</a>
       </nav>
 
@@ -385,6 +386,82 @@
         </section>
       </section>
 
+      <section id="consultant" class="consultant" aria-labelledby="consultantTitle">
+        <div class="consult-heading">
+          <div>
+            <p class="section-label">AI Consulting Platform</p>
+            <h2 id="consultantTitle">AIコンサルタント</h2>
+            <p>会社情報の分析から、事業計画書の作成・AI審査・改善・出力までをこの画面で完結します。文章はAIが下書きし、事実の裏付けが無い内容は「不足情報」として必ず表示します。</p>
+          </div>
+          <div class="consult-api">
+            <span id="consultApiStatus">APIキー未設定</span>
+            <button id="consultApiButton" type="button" class="secondary-action">API設定</button>
+          </div>
+        </div>
+
+        <div id="consultBusy" class="consult-busy" hidden></div>
+
+        <div class="consult-layout">
+          <aside class="consult-sidebar">
+            <div class="consult-sidebar-head">
+              <h3>案件管理</h3>
+              <button id="consultNewCase" type="button" class="prep-action">新しい案件</button>
+            </div>
+            <div id="consultCaseList" class="consult-case-list"></div>
+          </aside>
+
+          <div id="consultNoCase" class="consult-empty-state">
+            <strong>案件を作成してください</strong>
+            <p>「新しい案件」から顧客名を登録すると、会社情報の入力→計画書作成→AI審査の流れが始まります。</p>
+          </div>
+
+          <div id="consultWorkbench" class="consult-workbench" hidden>
+            <div class="consult-case-head">
+              <input id="consultCaseName" type="text" aria-label="案件名" />
+              <select id="consultCaseStatus" aria-label="申請状況"></select>
+              <button id="consultDeleteCase" type="button" class="consult-delete" aria-label="案件を削除">削除</button>
+            </div>
+
+            <details class="consult-block" open>
+              <summary>1. 会社情報・必要書類</summary>
+              <div id="consultCompanyFields" class="consult-company-grid"></div>
+              <div id="consultDocs" class="consult-docs"></div>
+              <div id="consultMissing" class="consult-missing"></div>
+            </details>
+
+            <details class="consult-block" open>
+              <summary>2. 対象補助金・組み合わせ提案</summary>
+              <div class="combo-head">
+                <input id="consultGrantSearchInput" type="search" placeholder="補助金名で検索して追加（例: ものづくり、省力化、IT導入）" />
+                <button id="consultComboButton" type="button" class="secondary-action">AIに組み合わせを提案させる</button>
+              </div>
+              <div id="consultGrantResults" class="consult-grant-results"></div>
+              <div id="consultGrantSelected" class="consult-grant-selected"></div>
+              <div id="consultComboResult" class="consult-combo"></div>
+            </details>
+
+            <details class="consult-block" open>
+              <summary>3. 事業計画書 — 作成・審査・改善</summary>
+              <div class="consult-actions">
+                <button id="consultGenerate" type="button" class="prep-action">事業計画書を作成</button>
+                <button id="consultReviewButton" type="button" class="secondary-action">AI審査員に採点させる</button>
+                <button id="consultImprove" type="button" class="secondary-action">指摘を反映して改訂→再審査</button>
+                <button id="consultPrint" type="button" class="secondary-action">印刷 / PDF</button>
+                <button id="consultWord" type="button" class="secondary-action">Word出力</button>
+              </div>
+              <div id="consultVersionTabs" class="consult-vtabs"></div>
+              <div id="consultReview" class="consult-review"></div>
+              <div id="consultPlan" class="consult-plan"></div>
+            </details>
+
+            <details class="consult-block">
+              <summary>4. この案件のAI作業履歴</summary>
+              <ul id="consultLog" class="consult-log"></ul>
+            </details>
+          </div>
+        </div>
+      </section>
+
       <section id="sources" class="sources">
         <div>
           <p class="section-label">Source Network</p>
@@ -414,5 +491,6 @@
     <button id="backToTop" class="back-to-top" type="button" aria-label="ページ上部へ戻る" title="ページ上部へ戻る">↑</button>
 
     <script src="./app.js"></script>
+    <script src="./consultant.js"></script>
   </body>
 </html>
