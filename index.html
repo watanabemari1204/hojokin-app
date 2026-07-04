@@ -7,6 +7,59 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
+    <script>
+      // Web公開版（github.io）のみ合言葉ゲートを表示。合言葉本体はコードに置かず、SHA-256ハッシュのみ保持
+      (function () {
+        if (!location.hostname.endsWith("github.io")) return;
+        var HASH = "add6a3e6e9af41690eb3f2a25d44b746b71590c769ab8dd139bab5027ba848b2";
+        var KEY = "gmnGateV1";
+        try { if (localStorage.getItem(KEY) === HASH) return; } catch (e) {}
+        var overlay = document.createElement("div");
+        overlay.innerHTML =
+          '<style>' +
+          '#gmnGate{position:fixed;inset:0;z-index:99999;display:flex;align-items:center;justify-content:center;background:#0c1613;}' +
+          '#gmnGate .gate-card{width:min(360px,86vw);background:#13221b;border:1px solid rgba(216,169,63,.35);border-radius:16px;padding:36px 30px;text-align:center;box-shadow:0 24px 60px rgba(0,0,0,.45);}' +
+          '#gmnGate .gate-mark{width:48px;height:48px;margin:0 auto 14px;border-radius:12px;background:#d8a93f;color:#1c2a22;font-weight:700;font-size:24px;line-height:48px;}' +
+          '#gmnGate h2{color:#f2efe6;font-size:18px;margin:0 0 6px;}' +
+          '#gmnGate p{color:#9db3a6;font-size:13px;margin:0 0 20px;}' +
+          '#gmnGate input{width:100%;box-sizing:border-box;padding:12px 14px;border-radius:10px;border:1px solid #2e4437;background:#0c1613;color:#f2efe6;font-size:16px;text-align:center;letter-spacing:.12em;outline:none;}' +
+          '#gmnGate input:focus{border-color:#d8a93f;}' +
+          '#gmnGate button{width:100%;margin-top:12px;padding:12px;border:none;border-radius:10px;background:#d8a93f;color:#1c2a22;font-size:15px;font-weight:700;cursor:pointer;}' +
+          '#gmnGate .gate-error{color:#e08484;font-size:12px;min-height:16px;margin-top:10px;}' +
+          '</style>' +
+          '<div id="gmnGate"><div class="gate-card">' +
+          '<div class="gate-mark">G</div>' +
+          '<h2>Grant Match Navigator</h2>' +
+          '<p>合言葉を入力してください</p>' +
+          '<input type="password" autocomplete="current-password" aria-label="合言葉" />' +
+          '<button type="button">開く</button>' +
+          '<div class="gate-error"></div>' +
+          '</div></div>';
+        document.body.appendChild(overlay);
+        var input = overlay.querySelector("input");
+        var error = overlay.querySelector(".gate-error");
+        function unlock() {
+          crypto.subtle.digest("SHA-256", new TextEncoder().encode(input.value)).then(function (buffer) {
+            var hex = Array.prototype.map.call(new Uint8Array(buffer), function (b) {
+              return b.toString(16).padStart(2, "0");
+            }).join("");
+            if (hex === HASH) {
+              try { localStorage.setItem(KEY, HASH); } catch (e) {}
+              overlay.remove();
+            } else {
+              error.textContent = "合言葉が違います";
+              input.value = "";
+              input.focus();
+            }
+          });
+        }
+        overlay.querySelector("button").addEventListener("click", unlock);
+        input.addEventListener("keydown", function (event) {
+          if (event.key === "Enter") unlock();
+        });
+        setTimeout(function () { input.focus(); }, 50);
+      })();
+    </script>
     <aside class="sidebar">
       <div class="brand">
         <div class="brand-mark">G</div>
