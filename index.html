@@ -1,0 +1,365 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Grant Match Navigator</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark">G</div>
+        <div>
+          <p class="eyebrow">Subsidy Intelligence</p>
+          <h1>Grant Match Navigator</h1>
+        </div>
+      </div>
+
+      <nav class="nav" aria-label="主要メニュー">
+        <a class="active" href="#regional">都道府県別 政策・提案</a>
+        <a href="#search">検索</a>
+        <a href="#application-prep">要件確認・10案生成</a>
+        <a href="#optimizer">採択額シミュレーション</a>
+        <a href="#sources">情報ソース</a>
+      </nav>
+
+      <section class="source-health">
+        <p class="section-label">データ更新</p>
+        <div class="status-row">
+          <span class="pulse"></span>
+          <span>公式ソース確認: <strong id="lastUpdated">同期中…</strong></span>
+        </div>
+        <div id="updateMessage" class="update-message">新着制度の確認準備ができています。</div>
+        <p>jGrants、中央省庁、自治体、外郭団体、専門家YouTubeの速報を統合する前提のプロトタイプです。</p>
+      </section>
+    </aside>
+
+    <main class="app-shell">
+      <section class="topbar">
+        <div>
+          <p class="eyebrow">補助金・助成金・交付金 一括検索</p>
+          <h2>条件に合う制度を探し、最大採択額の組み合わせを試算</h2>
+        </div>
+        <div class="refresh-group">
+          <button id="refreshButton" class="primary-action" type="button">最新情報を更新</button>
+          <span id="refreshResult">新着0件</span>
+        </div>
+      </section>
+
+      <section id="regional" class="regional-intelligence">
+        <div class="regional-heading">
+          <div>
+            <p class="section-label">Regional Policy Intelligence</p>
+            <h2>都道府県別 政策・企業提案</h2>
+            <p>地域の産業特性と現在の公募傾向を重ね、企業に提案しやすい形で整理します。</p>
+          </div>
+          <label class="regional-selector">
+            分析する都道府県
+            <select id="regionalPolicySelect"></select>
+          </label>
+        </div>
+        <div class="regional-overview">
+          <div>
+            <span class="regional-prefecture" id="regionalPrefecture">東京都</span>
+            <h3 id="regionalHeadline">地域政策を分析中</h3>
+            <p id="regionalDescription"></p>
+          </div>
+          <div class="regional-metrics">
+            <article><span>地域限定制度</span><strong id="regionalGrantCount">0件</strong></article>
+            <article><span>全国制度を含む候補</span><strong id="regionalAllCount">0件</strong></article>
+            <article><span>最大掲載額</span><strong id="regionalMaxAmount">要確認</strong></article>
+          </div>
+        </div>
+        <section class="regional-ranking" aria-labelledby="regionalRankingTitle">
+          <div class="ranking-heading">
+            <div>
+              <p class="section-label">Prefecture Ranking</p>
+              <h3 id="regionalRankingTitle">都道府県別・制度ランキング</h3>
+              <p id="rankingDescription">地域限定制度の掲載件数で比較しています。</p>
+            </div>
+            <label class="ranking-selector">
+              比較軸
+              <select id="rankingMetric">
+                <option value="count">地域限定制度の掲載件数</option>
+                <option value="maxAmount">地域限定制度の最大掲載額</option>
+                <option value="digital">DX・省力化系の制度数</option>
+              </select>
+            </label>
+          </div>
+          <div id="prefectureRankingChart" class="prefecture-ranking-chart" aria-live="polite"></div>
+        </section>
+        <div class="policy-columns">
+          <section>
+            <h3>地域の特色・重点政策</h3>
+            <div id="regionalThemes" class="policy-list"></div>
+          </section>
+          <section>
+            <h3>企業への提案例</h3>
+            <div id="regionalProposals" class="proposal-list"></div>
+          </section>
+        </div>
+        <div class="regional-grants-heading">
+          <div>
+            <h3>この地域で確認できる制度</h3>
+            <p>Jグランツ掲載中の地域限定制度を優先表示します。</p>
+          </div>
+          <button id="showAllRegionalGrants" class="secondary-action" type="button">検索一覧で全部見る</button>
+        </div>
+        <div id="regionalGrantList" class="regional-grant-list"></div>
+      </section>
+
+      <section class="news-band" aria-labelledby="latestNewsTitle">
+        <div class="news-heading">
+          <div>
+            <p class="section-label">MAKINOYA DAILY WATCH</p>
+            <h2 id="latestNewsTitle">新しい補助金・重要変更</h2>
+          </div>
+          <div class="news-source-status">
+            <span class="pulse"></span>
+            <span id="newsSourceStatus">マキノヤ先生の動画速報＋公式情報で確認</span>
+          </div>
+        </div>
+        <div id="latestNewsList" class="latest-news-list"></div>
+      </section>
+
+      <section id="search" class="workspace">
+        <div class="catalog-status" role="status">
+          <strong id="jgrantsStatus">Jグランツ公式データを同期しています...</strong>
+          <span>出典：Jグランツ。取得情報を本アプリで編集・加工しています。申請前に各制度の公式ページと公募要領をご確認ください。</span>
+        </div>
+        <div class="filter-panel" aria-label="検索条件">
+          <label>
+            キーワード
+            <input id="keywordInput" type="search" placeholder="例: IT導入、省エネ、人材育成" />
+          </label>
+
+          <label>
+            事業者所在地
+            <select id="regionSelect">
+              <option value="all">全国・すべて</option>
+            </select>
+          </label>
+
+          <label>
+            目的
+            <select id="purposeSelect">
+              <option value="all">すべて</option>
+              <option value="設備投資">設備投資</option>
+              <option value="DX">DX</option>
+              <option value="雇用">雇用</option>
+              <option value="省エネ">省エネ</option>
+              <option value="創業">創業</option>
+              <option value="販路開拓">販路開拓</option>
+              <option value="研究開発">研究開発</option>
+              <option value="事業承継">事業承継</option>
+              <option value="脱炭素">脱炭素</option>
+              <option value="観光">観光</option>
+              <option value="農業">農業</option>
+            </select>
+          </label>
+
+          <label>
+            申請状況
+            <select id="statusSelect">
+              <option value="all">すべて</option>
+              <option value="公募中">公募中</option>
+              <option value="準備中">準備中</option>
+              <option value="随時">随時</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="summary-grid">
+          <article>
+            <span>候補制度</span>
+            <strong id="resultCount">0</strong>
+          </article>
+          <article>
+            <span>最大単体採択額</span>
+            <strong id="maxSingle">0万円</strong>
+          </article>
+          <article>
+            <span>併用候補合計</span>
+            <strong id="comboTotal">0万円</strong>
+          </article>
+        </div>
+
+        <div id="grantList" class="grant-list" aria-live="polite"></div>
+      </section>
+
+      <section id="application-prep" class="application-prep" aria-labelledby="applicationPrepTitle">
+        <div class="application-prep-heading">
+          <div>
+            <p class="section-label">Application Workflow</p>
+            <h2 id="applicationPrepTitle">要件確認・申請計画案生成</h2>
+            <p>検索で選んだ制度と会社情報をもとに、要件、必要書類、申請計画案を整理します。申請書への入力は別の書類作成アプリで行います。</p>
+          </div>
+          <div class="prep-selected">
+            <span>選択中の制度</span>
+            <strong id="prepSelectedGrant">未選択</strong>
+          </div>
+        </div>
+
+        <div class="prep-workflow" aria-label="要件確認と案生成の流れ">
+          <article class="prep-step is-active">
+            <span>01</span>
+            <strong>制度要件を確認</strong>
+            <p>公募要領、対象者、対象経費、審査項目、上限額を整理します。</p>
+          </article>
+          <article class="prep-step">
+            <span>02</span>
+            <strong>会社情報を取得</strong>
+            <p>会社ホームページ、人数、所在地、投資額、取り組みたい内容をもとに整理します。</p>
+          </article>
+          <article class="prep-step">
+            <span>03</span>
+            <strong>申請案を10個出す</strong>
+            <p>必要書類、狙える金額、計画の方向性を案ごとに比較します。</p>
+          </article>
+          <article class="prep-step">
+            <span>04</span>
+            <strong>書類作成アプリへ渡す</strong>
+            <p>選んだ案だけを、別で作る申請書入力アプリへ引き継ぎます。</p>
+          </article>
+        </div>
+
+        <div class="prep-intake">
+          <label>
+            会社ホームページURL
+            <input id="companyWebsite" type="url" placeholder="https://example.co.jp" />
+          </label>
+          <label>
+            会社・事業メモ
+            <input id="companyMemo" type="text" placeholder="例: 金属加工、食品製造、EC強化、AI検査導入など" />
+          </label>
+        </div>
+
+        <div id="prepWorkbench" class="prep-workbench">
+          <div class="prep-empty">
+            <strong>制度を選択してください</strong>
+            <p>検索結果または制度詳細の「要件を確認して10案を作る」から、要件確認と申請案の作業台を作成します。</p>
+            <button id="tryMonodukuriPrep" class="prep-action" type="button">ものづくり補助金で10案を作る</button>
+          </div>
+        </div>
+      </section>
+
+      <section id="optimizer" class="optimizer">
+        <div class="optimizer-heading">
+          <p class="section-label">Combination Optimizer</p>
+          <h2>面談用 補助金カウンセリング</h2>
+          <p>会社情報と取り組みたい内容を入力すると、適用候補・理由・採択額の概算をまとめます。</p>
+        </div>
+        <form id="counselingForm" class="counseling-form">
+          <div class="counseling-fields">
+            <label>
+              会社形態
+              <select id="companyType" required>
+                <option value="corporation">法人</option>
+                <option value="sole">個人事業主</option>
+                <option value="startup">創業予定</option>
+              </select>
+            </label>
+            <label>
+              主な事業分野
+              <select id="industry" required>
+                <option value="manufacturing">製造業</option>
+                <option value="construction">建設業</option>
+                <option value="retail">小売・卸売</option>
+                <option value="food">飲食・宿泊・観光</option>
+                <option value="it">IT・情報通信</option>
+                <option value="medical">医療・介護・福祉</option>
+                <option value="transport">運輸・物流</option>
+                <option value="agriculture">農林水産業</option>
+                <option value="service">専門・サービス業</option>
+                <option value="other">その他</option>
+              </select>
+            </label>
+            <label>
+              所在地
+              <select id="counselingRegion" required>
+              </select>
+            </label>
+            <label>
+              従業員数
+              <input id="employeeCount" type="number" min="0" max="5000" value="5" required />
+            </label>
+            <label>
+              会社・事業年数
+              <input id="businessYears" type="number" min="0" max="200" value="3" required />
+            </label>
+            <label>
+              予定投資額（万円）
+              <input id="investmentAmount" type="number" min="0" max="1000000" value="500" required />
+            </label>
+          </div>
+
+          <fieldset class="goal-fieldset">
+            <legend>取り組みたいこと（複数選択可）</legend>
+            <div class="goal-grid">
+              <label><input type="checkbox" name="goal" value="hire" /> 人を増やしたい</label>
+              <label><input type="checkbox" name="goal" value="laborSaving" /> 省力化したい</label>
+              <label><input type="checkbox" name="goal" value="reskill" /> リスキリングしたい</label>
+              <label><input type="checkbox" name="goal" value="ai" /> AIを導入したい</label>
+              <label><input type="checkbox" name="goal" value="newBusiness" /> 新事業に挑戦したい</label>
+              <label><input type="checkbox" name="goal" value="dx" /> DX・クラウド化したい</label>
+              <label><input type="checkbox" name="goal" value="wage" /> 賃上げしたい</label>
+              <label><input type="checkbox" name="goal" value="sales" /> 販路を広げたい</label>
+              <label><input type="checkbox" name="goal" value="energy" /> 省エネ・脱炭素を進めたい</label>
+              <label><input type="checkbox" name="goal" value="succession" /> 事業承継・M&amp;A</label>
+              <label><input type="checkbox" name="goal" value="export" /> 海外展開したい</label>
+              <label><input type="checkbox" name="goal" value="startup" /> 創業したい</label>
+            </div>
+          </fieldset>
+
+          <div class="binary-options">
+            <label><input id="investmentUndecided" type="checkbox" /> 投資額は未定・上限から考える</label>
+            <label><input id="wageIncrease" type="checkbox" /> 賃上げ計画がある</label>
+            <label><input id="gBizId" type="checkbox" /> GビズIDプライム取得済み</label>
+          </div>
+
+          <button class="simulate-action" type="submit">適用候補と採択額を診断</button>
+        </form>
+
+        <section id="simulationResults" class="simulation-results" aria-live="polite" hidden>
+          <div class="simulation-summary">
+            <article><span>適用候補</span><strong id="simulationCount">0件</strong></article>
+            <article><span>併用概算</span><strong id="simulationTotal">0万円</strong></article>
+            <article><span>最有力候補</span><strong id="topMatchName">-</strong></article>
+          </div>
+          <div id="counselingNotes" class="counseling-notes"></div>
+          <div id="comboList" class="combo-list"></div>
+        </section>
+      </section>
+
+      <section id="sources" class="sources">
+        <div>
+          <p class="section-label">Source Network</p>
+          <h2>公式情報と速報・解説ソース</h2>
+        </div>
+        <div id="videoInsightList" class="video-insight-list"></div>
+        <div id="sourceList" class="source-list"></div>
+      </section>
+    </main>
+
+    <dialog id="grantDetailDialog" class="grant-dialog" aria-labelledby="grantDetailTitle">
+      <div class="dialog-header">
+        <div>
+          <p id="grantDetailAgency" class="section-label"></p>
+          <h2 id="grantDetailTitle"></h2>
+        </div>
+        <button id="closeGrantDetail" class="icon-button" type="button" aria-label="詳細を閉じる" title="閉じる">&times;</button>
+      </div>
+      <div id="grantDetailBody" class="dialog-body"></div>
+      <div class="dialog-actions">
+        <button id="closeGrantDetailBottom" class="secondary-action" type="button">一覧に戻る</button>
+        <button id="startApplicationPrepFromDialog" class="primary-action" type="button">要件を確認して10案を作る</button>
+        <a id="grantOfficialLink" class="official-action" href="#" target="_blank" rel="noreferrer">公式掲載先を開く</a>
+      </div>
+    </dialog>
+
+    <button id="backToTop" class="back-to-top" type="button" aria-label="ページ上部へ戻る" title="ページ上部へ戻る">↑</button>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
