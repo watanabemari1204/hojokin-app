@@ -1,18 +1,7 @@
 {
- "checkedAt": "2026-07-04 15:05",
+ "checkedAt": "2026-07-04 15:22",
  "count": 283,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-07-06T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-22T01:00:00.000Z",
-   "id": "a0WJ200000CDa1lMAD",
-   "institution_name": null,
-   "name": "S-00009265",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「蓄電池開発ビジョン策定にかかる調査」の公募"
-  },
   {
    "acceptance_end_datetime": "2026-07-06T03:00:00.000Z",
    "acceptance_start_datetime": "2026-06-05T03:00:00.000Z",
@@ -23,6 +12,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和７年度補正「次世代革新炉の開発・建設に向けた技術開発・サプライチェーン構築支援事業補助金」【二次公募】"
+  },
+  {
+   "acceptance_end_datetime": "2026-07-06T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-06-22T01:00:00.000Z",
+   "id": "a0WJ200000CDa1lMAD",
+   "institution_name": null,
+   "name": "S-00009265",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「蓄電池開発ビジョン策定にかかる調査」の公募"
   },
   {
    "acceptance_end_datetime": "2026-07-08T03:00:00.000Z",
@@ -202,17 +202,6 @@
   },
   {
    "acceptance_end_datetime": "2026-07-16T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-15T01:00:00.000Z",
-   "id": "a0WJ200000CDYjqMAH",
-   "institution_name": null,
-   "name": "S-00009002",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「経済安全保障重要技術育成プログラム／高効率・高品質レーザー加工技術の開発／研究開発項目③高品質・高出力な半導体レーザーの研究開発及び当該半導体レーザーを用いた車載用LiDARの構築」の公募"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-16T03:00:00.000Z",
    "acceptance_start_datetime": "2026-06-25T05:00:00.000Z",
    "id": "a0WJ200000CDb81MAD",
    "institution_name": null,
@@ -232,6 +221,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【二次公募】令和８年度　二酸化炭素排出抑制対策事業費等補助金　再エネ等熱利用設備導入事業 【再エネ熱】"
+  },
+  {
+   "acceptance_end_datetime": "2026-07-16T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-06-15T01:00:00.000Z",
+   "id": "a0WJ200000CDYjqMAH",
+   "institution_name": null,
+   "name": "S-00009002",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「経済安全保障重要技術育成プログラム／高効率・高品質レーザー加工技術の開発／研究開発項目③高品質・高出力な半導体レーザーの研究開発及び当該半導体レーザーを用いた車載用LiDARの構築」の公募"
   },
   {
    "acceptance_end_datetime": "2026-07-17T03:00:00.000Z",
@@ -620,17 +620,6 @@
   },
   {
    "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-03-25T01:00:00.000Z",
-   "id": "a0WJ200000CDXoQMAX",
-   "institution_name": null,
-   "name": "S-00008230",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「グリーンイノベーション基金事業／食料・農林水産業のCO2等削減・吸収技術の開発」の公募"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
    "acceptance_start_datetime": "2025-05-09T05:00:00.000Z",
    "id": "a0WJ200000CDNujMAH",
    "institution_name": null,
@@ -639,6 +628,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "情報通信拠点機能強化支援事業費補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-03-25T01:00:00.000Z",
+   "id": "a0WJ200000CDXoQMAX",
+   "institution_name": null,
+   "name": "S-00008230",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「グリーンイノベーション基金事業／食料・農林水産業のCO2等削減・吸収技術の開発」の公募"
   },
   {
    "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
@@ -985,7 +985,7 @@
    "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
    "acceptance_start_datetime": "2026-06-30T23:45:00.000Z",
    "id": "a0W2x000004PhCHEA0",
-   "institution_name": "令和8年度情報通信利用促進支援事業費補助金 （字幕・解説・手話番組等の制作・普及促進）",
+   "institution_name": null,
    "name": "S-00001113",
    "subsidy_max_limit": 0,
    "target_area_search": "全国",
@@ -1258,17 +1258,6 @@
   },
   {
    "acceptance_end_datetime": "2026-11-30T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-03-13T00:00:00.000Z",
-   "id": "a0WJ200000CDYfxMAH",
-   "institution_name": null,
-   "name": "S-00008944",
-   "subsidy_max_limit": 4500000,
-   "target_area_search": "福岡県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "古賀市中小企業等向け太陽光発電設備導入補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-11-30T08:00:00.000Z",
    "acceptance_start_datetime": "2026-04-16T00:00:00.000Z",
    "id": "a0WJ200000CDZy8MAH",
    "institution_name": null,
@@ -1277,6 +1266,17 @@
    "target_area_search": "山形県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【山形県】令和8年度やまがた未来くるエネルギー補助金（山形県再生可能エネルギー等設備導入促進事業）"
+  },
+  {
+   "acceptance_end_datetime": "2026-11-30T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-03-13T00:00:00.000Z",
+   "id": "a0WJ200000CDYfxMAH",
+   "institution_name": null,
+   "name": "S-00008944",
+   "subsidy_max_limit": 4500000,
+   "target_area_search": "福岡県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "古賀市中小企業等向け太陽光発電設備導入補助金"
   },
   {
    "acceptance_end_datetime": "2026-11-30T08:30:00.000Z",
@@ -1500,6 +1500,17 @@
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
+   "id": "a0W2x000007CStEEAW",
+   "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+   "name": "S-00002265",
+   "subsidy_max_limit": 0,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
    "acceptance_start_datetime": "2025-10-27T08:00:00.000Z",
    "id": "a0WJ200000CDVkeMAH",
    "institution_name": null,
@@ -1519,17 +1530,6 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "農林水産物認証取得支援事業（水産認証取得支援事業）補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
-   "id": "a0W2x000007CStEEAW",
-   "institution_name": null,
-   "name": "S-00002265",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:15:00.000Z",
@@ -1754,28 +1754,6 @@
   {
    "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW2MAP",
-   "institution_name": null,
-   "name": "S-00008790",
-   "subsidy_max_limit": 500000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎ものづくり支援補助金（共同研究事業）"
-  },
-  {
-   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW3MAP",
-   "institution_name": null,
-   "name": "S-00008791",
-   "subsidy_max_limit": 500000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎ものづくり支援補助金（依頼試験事業）"
-  },
-  {
-   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
    "id": "a0WJ200000CDYW7MAP",
    "institution_name": null,
    "name": "S-00008795",
@@ -1805,6 +1783,28 @@
    "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "岡崎ものづくり支援補助金（知的財産権取得事業）"
+  },
+  {
+   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYW3MAP",
+   "institution_name": null,
+   "name": "S-00008791",
+   "subsidy_max_limit": 500000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎ものづくり支援補助金（依頼試験事業）"
+  },
+  {
+   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYW2MAP",
+   "institution_name": null,
+   "name": "S-00008790",
+   "subsidy_max_limit": 500000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎ものづくり支援補助金（共同研究事業）"
   },
   {
    "acceptance_end_datetime": "2027-02-01T08:15:00.000Z",
@@ -2149,17 +2149,6 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-   "id": "a0WJ200000CDZz2MAH",
-   "institution_name": null,
-   "name": "S-00009253",
-   "subsidy_max_limit": 0,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【愛知県大府市】大府市産業立地の奨励措置"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
    "acceptance_start_datetime": "2026-05-19T00:00:00.000Z",
    "id": "a0WJ200000CDYvnMAH",
    "institution_name": null,
@@ -2212,6 +2201,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "地上基幹放送ネットワーク整備等事業（令和７年度補正予算及び令和８年度当初予算）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
+   "id": "a0WJ200000CDZz2MAH",
+   "institution_name": null,
+   "name": "S-00009253",
+   "subsidy_max_limit": 0,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【愛知県大府市】大府市産業立地の奨励措置"
   },
   {
    "acceptance_end_datetime": "2027-03-31T08:15:00.000Z",
@@ -2578,6 +2578,83 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-06-09T23:30:00.000Z",
+   "id": "a0WJ200000CDacWMAT",
+   "institution_name": null,
+   "name": "S-00009325",
+   "subsidy_max_limit": 55000000,
+   "target_area_search": "青森県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-07-01T01:00:00.000Z",
+   "id": "a0WJ200000CDa6IMAT",
+   "institution_name": null,
+   "name": "S-00009271",
+   "subsidy_max_limit": 550000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "title": "令和８年度介護休業取得応援奨励金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYW4MAP",
+   "institution_name": null,
+   "name": "S-00008792",
+   "subsidy_max_limit": 300000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎ものづくり支援補助金（見本市等出展事業）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYVzMAP",
+   "institution_name": null,
+   "name": "S-00008787",
+   "subsidy_max_limit": 0,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "300名以下",
+   "title": "岡崎市中小企業事業資金保証料補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-04-30T15:00:00.000Z",
+   "id": "a0WJ200000CDYSUMA5",
+   "institution_name": null,
+   "name": "S-00008697",
+   "subsidy_max_limit": 133280000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "廃止石油坑井封鎖事業費補助金（令和8年度：関東東北産業保安監督部東北支部）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-04-30T15:00:00.000Z",
+   "id": "a0WJ200000CDYSKMA5",
+   "institution_name": null,
+   "name": "S-00008695",
+   "subsidy_max_limit": 133280000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "廃止石油坑井封鎖事業費補助金（令和8年度：関東東北産業保安監督部）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDY1GMAX",
+   "institution_name": null,
+   "name": "S-00008386",
+   "subsidy_max_limit": 0,
+   "target_area_search": "長野県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【長野県茅野市】中小企業振興補助金（商業関係）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
    "id": "a0WJ200000CDb86MAD",
    "institution_name": null,
@@ -2666,80 +2743,25 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-06-09T23:30:00.000Z",
-   "id": "a0WJ200000CDacWMAT",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDY2OMAX",
    "institution_name": null,
-   "name": "S-00009325",
-   "subsidy_max_limit": 55000000,
-   "target_area_search": "青森県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度原子力発電施設等の周辺地域における大規模開発地区への企業立地促進事業費補助金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-07-01T01:00:00.000Z",
-   "id": "a0WJ200000CDa6IMAT",
-   "institution_name": null,
-   "name": "S-00009271",
-   "subsidy_max_limit": 550000,
+   "name": "S-00008400",
+   "subsidy_max_limit": 240000,
    "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "title": "令和８年度介護休業取得応援奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW4MAP",
-   "institution_name": null,
-   "name": "S-00008792",
-   "subsidy_max_limit": 300000,
-   "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎ものづくり支援補助金（見本市等出展事業）"
+   "title": "令和8年度職場内障害者サポーター事業"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYVzMAP",
+   "id": "a0WJ200000CDK7KMAX",
    "institution_name": null,
-   "name": "S-00008787",
+   "name": "S-00006094",
    "subsidy_max_limit": 0,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "300名以下",
-   "title": "岡崎市中小企業事業資金保証料補助金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-04-30T15:00:00.000Z",
-   "id": "a0WJ200000CDYSUMA5",
-   "institution_name": null,
-   "name": "S-00008697",
-   "subsidy_max_limit": 133280000,
-   "target_area_search": "全国",
+   "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
-   "title": "廃止石油坑井封鎖事業費補助金（令和8年度：関東東北産業保安監督部東北支部）"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-04-30T15:00:00.000Z",
-   "id": "a0WJ200000CDYSKMA5",
-   "institution_name": null,
-   "name": "S-00008695",
-   "subsidy_max_limit": 133280000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "廃止石油坑井封鎖事業費補助金（令和8年度：関東東北産業保安監督部）"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDY1GMAX",
-   "institution_name": null,
-   "name": "S-00008386",
-   "subsidy_max_limit": 0,
-   "target_area_search": "長野県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【長野県茅野市】中小企業振興補助金（商業関係）"
+   "title": "東京都環境保全資金融資あっせん"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
@@ -2762,28 +2784,6 @@
    "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "岡崎市消費者向け製品製造工場等建設奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDY2OMAX",
-   "institution_name": null,
-   "name": "S-00008400",
-   "subsidy_max_limit": 240000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和8年度職場内障害者サポーター事業"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDK7KMAX",
-   "institution_name": null,
-   "name": "S-00006094",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "東京都環境保全資金融資あっせん"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
@@ -3117,23 +3117,5 @@
   }
  ],
  "source": "Jグランツ",
- "partialErrors": [
-  "千葉県: HTTP Error 429: Too Many Requests",
-  "神奈川県: HTTP Error 429: Too Many Requests",
-  "富山県: HTTP Error 429: Too Many Requests",
-  "福井県: HTTP Error 429: Too Many Requests",
-  "鳥取県: HTTP Error 429: Too Many Requests",
-  "岡山県: HTTP Error 429: Too Many Requests",
-  "徳島県: HTTP Error 429: Too Many Requests",
-  "香川県: HTTP Error 429: Too Many Requests",
-  "高知県: HTTP Error 429: Too Many Requests",
-  "福岡県: HTTP Error 429: Too Many Requests",
-  "熊本県: HTTP Error 429: Too Many Requests",
-  "佐賀県: HTTP Error 429: Too Many Requests",
-  "大分県: HTTP Error 429: Too Many Requests",
-  "長崎県: HTTP Error 429: Too Many Requests",
-  "鹿児島県: HTTP Error 429: Too Many Requests",
-  "宮崎県: HTTP Error 429: Too Many Requests",
-  "沖縄県: HTTP Error 429: Too Many Requests"
- ]
+ "partialErrors": []
 }
