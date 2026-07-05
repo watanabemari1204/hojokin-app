@@ -1,6 +1,28 @@
 {
- "checkedAt": "2026-07-04 16:11",
+ "checkedAt": "2026-07-05 10:52",
  "news": [
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "給付金",
+   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
+   "difference": "設備購入後の経費補助ではなく、対象要件を満たした場合の定額給付・支援が中心の可能性があります。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-07-05",
+   "grantName": "",
+   "source": "https://www.youtube.com/shorts/IIuzmM2MIEA"
+  },
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "【募集】新型給付金１人420万円・200万円・地域企業経営人材確保支援事業給付金・雇用・業務委託・レビック・レビキャリ・REVICareer)【中小企業診断士・行政書士 マキノヤ先生】",
+   "summary": "今年は減額４２０万円の人材給付金 ＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 補助金・助成金専門家紹介フォーム（無料） https://forms.gle/NXexN3JCBB2Du1TE7 【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、もらえる補助金・助成金をチェック → https://lin",
+   "difference": "設備購入後の経費補助ではなく、対象要件を満たした場合の定額給付・支援が中心の可能性があります。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-07-04",
+   "grantName": "",
+   "source": "https://www.youtube.com/watch?v=wjZRb69E2Gw"
+  },
   {
    "level": "high",
    "label": "マキノヤ先生 新着動画",
@@ -22,28 +44,6 @@
    "checkedAt": "動画公開 2026-07-03",
    "grantName": "",
    "source": "https://www.youtube.com/watch?v=lfyMJ80BIQw"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "IT導入補助金",
-   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-07-03",
-   "grantName": "",
-   "source": "https://www.youtube.com/shorts/TR1lZmVYUc8"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "【注意】依頼していた補助金コンサルが倒産・年商10億円で破産・経営者が絶対に学ぶべき3つの教訓・デジタル化・AI導入補助金・IT補助金・IT導入支援事業者【中小企業診断士・行政書士 マキノヤ先生】",
-   "summary": "補助金コンサルに依頼したら・・・年商10億円のコンサルが倒産した結果 IT導入補助金 ＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 補助金・助成金専門家紹介フォーム（無料） https://forms.gle/NXexN3JCBB2Du1TE7 【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、もらえる",
-   "difference": "一般的な設備補助と違い、業務システム、クラウド、AI、データ活用などデジタル投資が中心です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-07-02",
-   "grantName": "",
-   "source": "https://www.youtube.com/watch?v=x5sQ6L9ler0"
   }
  ]
 }
