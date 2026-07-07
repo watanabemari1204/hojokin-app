@@ -1,29 +1,7 @@
 {
- "checkedAt": "2026-07-06 10:58",
- "count": 289,
+ "checkedAt": "2026-07-07 10:54",
+ "count": 291,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-07-06T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-05T03:00:00.000Z",
-   "id": "a0WJ200000CDZI0MAP",
-   "institution_name": null,
-   "name": "S-00009203",
-   "subsidy_max_limit": 2700000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和７年度補正「次世代革新炉の開発・建設に向けた技術開発・サプライチェーン構築支援事業補助金」【二次公募】"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-06T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-22T01:00:00.000Z",
-   "id": "a0WJ200000CDa1lMAD",
-   "institution_name": null,
-   "name": "S-00009265",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「蓄電池開発ビジョン策定にかかる調査」の公募"
-  },
   {
    "acceptance_end_datetime": "2026-07-08T03:00:00.000Z",
    "acceptance_start_datetime": "2026-06-08T00:45:00.000Z",
@@ -828,6 +806,17 @@
    "title": "「水素利用拡大に向けた共通基盤強化のための研究開発事業／水電解技術開発ロードマップの改定」の公募"
   },
   {
+   "acceptance_end_datetime": "2026-08-05T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-07T01:00:00.000Z",
+   "id": "a0WJ200000CDYv8MAH",
+   "institution_name": null,
+   "name": "S-00009130",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「安定供給確保支援基金事業（永久磁石）に関する効果検証調査」の公募"
+  },
+  {
    "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
    "acceptance_start_datetime": "2026-06-08T15:00:00.000Z",
    "id": "a0WJ200000CDaMVMA1",
@@ -1145,6 +1134,28 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "［第十三回］事業再構築補助金_GX進出類型（交付申請等）"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-06T05:00:00.000Z",
+   "id": "a0WJ200000CDczMMAT",
+   "institution_name": null,
+   "name": "S-00009463",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【令和８年度２次公募】国立公園等多言語解説等整備事業（国立公園等資源整備事業費補助金）"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-06T05:00:00.000Z",
+   "id": "a0WJ200000CDczHMAT",
+   "institution_name": null,
+   "name": "S-00009462",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【令和８年度２次公募】国立公園等利用拠点滞在環境等上質化事業（国立公園等資源整備事業費補助金）"
   },
   {
    "acceptance_end_datetime": "2026-10-30T09:00:00.000Z",
@@ -1533,17 +1544,6 @@
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
-   "id": "a0W2x000007CStEEAW",
-   "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
-   "name": "S-00002265",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
    "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
    "id": "a0WJ200000CDbPLMA1",
    "institution_name": null,
@@ -1552,6 +1552,17 @@
    "target_area_search": "福岡県",
    "target_number_of_employees": "300名以下",
    "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
+   "id": "a0W2x000007CStEEAW",
+   "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+   "name": "S-00002265",
+   "subsidy_max_limit": 0,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
@@ -1904,6 +1915,17 @@
    "target_area_search": "千葉県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "松戸市事業用省エネルギー設備等導入促進事業費補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-02-26T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-06-10T15:00:00.000Z",
+   "id": "a0WJ200000CDYCmMAP",
+   "institution_name": null,
+   "name": "S-00008554",
+   "subsidy_max_limit": 0,
+   "target_area_search": "大阪府",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【堺市】余剰電力等活用型太陽光発電設備整備事業（堺エネルギー地産地消プロジェクト推進事業補助金）"
   },
   {
    "acceptance_end_datetime": "2027-02-26T08:00:00.000Z",
@@ -2864,7 +2886,7 @@
   },
   {
    "acceptance_end_datetime": "2027-05-31T15:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-05T15:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-05T23:00:00.000Z",
    "id": "a0WJ200000CDbosMAD",
    "institution_name": null,
    "name": "S-00009401",
