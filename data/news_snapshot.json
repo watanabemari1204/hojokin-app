@@ -1,6 +1,28 @@
 {
- "checkedAt": "2026-07-11 10:24",
+ "checkedAt": "2026-07-12 10:26",
  "news": [
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "支援金情報",
+   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
+   "difference": "設備購入後の経費補助ではなく、対象要件を満たした場合の定額給付・支援が中心の可能性があります。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-07-12",
+   "grantName": "",
+   "source": "https://www.youtube.com/shorts/0ojB6SHFMEE"
+  },
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "【実例】今からでも間に合う支援金・持続化給付金の現在と事業者向け支援情報【中小企業診断士・行政書士 マキノヤ先生】第回",
+   "summary": "2026年7月最新情報 ＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 補助金・助成金専門家紹介フォーム（無料） https://forms.gle/NXexN3JCBB2Du1TE7 【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、もらえる補助金・助成金をチェック → https://lin.ee/m",
+   "difference": "大型設備投資ではなく、小規模事業者の販路開拓や広告・店舗・ウェブ施策が中心です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-07-11",
+   "grantName": "",
+   "source": "https://www.youtube.com/watch?v=Vwl_gq31yCg"
+  },
   {
    "level": "high",
    "label": "マキノヤ先生 新着動画",
@@ -22,28 +44,6 @@
    "checkedAt": "動画公開 2026-07-10",
    "grantName": "",
    "source": "https://www.youtube.com/watch?v=ePJuhQYmTDI"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "自動車補助金",
-   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-07-09",
-   "grantName": "",
-   "source": "https://www.youtube.com/shorts/XrcZ_uhwduM"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "【開始】実質100万円以下で車が購入できる・補助金情報【中小企業診断士・行政書士 マキノヤ先生】",
-   "summary": "７月６日報道情報も トリプル補助金７月１日から 新車が６９万円で買える 軽自動車は４６万円で ＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 【無料】補助金・助成金専門家紹介フォーム https://forms.gle/NXexN3JCBB2Du1TE7 【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-07-08",
-   "grantName": "",
-   "source": "https://www.youtube.com/watch?v=tTWBnDfRw4M"
   }
  ]
 }
