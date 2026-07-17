@@ -1,6 +1,28 @@
 {
- "checkedAt": "2026-07-16 10:23",
+ "checkedAt": "2026-07-17 10:26",
  "news": [
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "廃業補助金",
+   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
+   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-07-17",
+   "grantName": "",
+   "source": "https://www.youtube.com/shorts/LcD0pOZkAlk"
+  },
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "【締切】廃業・倒産・社長の転職補助金・事業承継・M&A補助金・再チャレンジ・事業売買・引継ぎ補助金・中小企業生産性革命推進事業【中小企業診断士・行政書士 マキノヤ先生】",
+   "summary": "廃業・倒産・転職 補助金 ３００万円 マキノヤ先生 ランチ会 東京（銀座） 2026年8月5日（水）12:00〜13:30（限定10名） 主催：株式会社西河マネジメントセンター様 https://docs.google.com/forms/d/14xxqVHr8ngoXVN0XzBMoemYhACHw5BzSuqHp6GqnNys/ ＜補助金・助成金の申請サ",
+   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-07-16",
+   "grantName": "",
+   "source": "https://www.youtube.com/watch?v=byHbVAD3siQ"
+  },
   {
    "level": "high",
    "label": "マキノヤ先生 新着動画",
@@ -22,28 +44,6 @@
    "checkedAt": "動画公開 2026-07-14",
    "grantName": "",
    "source": "https://www.youtube.com/watch?v=3-HIpic75jA"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "省エネ補助金",
-   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-07-14",
-   "grantName": "",
-   "source": "https://www.youtube.com/shorts/Oa5Ku5oqRD8"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "【最終回】全ての法人・個人事業主30万円100万円最高30億円・中小企業大企業も・省エネ補助金・省エネ非化石転換補助金・３次公募８月開始見込み【中小企業診断士・行政書士 マキノヤ先生】",
-   "summary": "最終 ８月開始 個人事業・中小企業・大企業向け補助金 30万円・100万円最高30億円 ＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 【無料】補助金・助成金専門家紹介フォーム https://forms.gle/NXexN3JCBB2Du1TE7 【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、もらえ",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-07-13",
-   "grantName": "",
-   "source": "https://www.youtube.com/watch?v=6q31KQlYmRw"
   }
  ]
 }
