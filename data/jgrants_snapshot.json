@@ -1,51 +1,7 @@
 {
- "checkedAt": "2026-07-21 10:23",
+ "checkedAt": "2026-07-22 10:22",
  "count": 305,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-07-21T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-22T06:00:00.000Z",
-   "id": "a0WJ200000CDZIyMAP",
-   "institution_name": null,
-   "name": "S-00009209",
-   "subsidy_max_limit": 50000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【一次公募】令和8年度　貿易プラットフォーム活用による貿易手続デジタル化推進事業費補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-21T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T06:00:00.000Z",
-   "id": "a0WJ200000CDYLLMA5",
-   "institution_name": null,
-   "name": "S-00008618",
-   "subsidy_max_limit": 20000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和7年度補正コンテンツ産業成長投資支援事業費補助金（IP新規創出支援）（新規IP企画支援）（ゲーム、アニメ、実写）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-21T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T06:00:00.000Z",
-   "id": "a0WJ200000CDYMuMAP",
-   "institution_name": null,
-   "name": "S-00008636",
-   "subsidy_max_limit": 100000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "IP360 開発プラットフォーム構築支援"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-21T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-23T01:00:00.000Z",
-   "id": "a0WJ200000CDO8eMAH",
-   "institution_name": null,
-   "name": "S-00006645",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "交通システムの省CO2 化に向けた設備整備事業（鉄道事業等におけるネットワーク型低炭素化促進事業）"
-  },
   {
    "acceptance_end_datetime": "2026-07-23T03:00:00.000Z",
    "acceptance_start_datetime": "2026-06-10T01:00:00.000Z",
@@ -719,6 +675,17 @@
   },
   {
    "acceptance_end_datetime": "2026-08-07T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-08T06:00:00.000Z",
+   "id": "a0WJ200000CDcQsMAL",
+   "institution_name": null,
+   "name": "S-00009439",
+   "subsidy_max_limit": 5000000,
+   "target_area_search": "全国 / 宮崎県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "物価高騰対策ＤＸ推進事業費補助金（戦略的DX推進事業）"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-07T08:00:00.000Z",
    "acceptance_start_datetime": "2026-07-01T02:00:00.000Z",
    "id": "a0WJ200000CDbfKMAT",
    "institution_name": null,
@@ -738,17 +705,6 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和8年度東京都薬局物価高騰緊急対策事業支援金"
-  },
-  {
-   "acceptance_end_datetime": "2026-08-07T15:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-09T00:00:00.000Z",
-   "id": "a0WJ200000CDcQsMAL",
-   "institution_name": null,
-   "name": "S-00009439",
-   "subsidy_max_limit": 5000000,
-   "target_area_search": "全国 / 宮崎県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "物価高騰対策ＤＸ推進事業費補助金（戦略的DX推進事業）"
   },
   {
    "acceptance_end_datetime": "2026-08-07T23:00:00.000Z",
@@ -793,6 +749,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和8年度 航空宇宙産業への参入支援事業（宇宙製品等開発経費助成）"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-14T15:00:00.000Z",
+   "acceptance_start_datetime": "2025-07-22T15:00:00.000Z",
+   "id": "a0WJ200000CDd3iMAD",
+   "institution_name": null,
+   "name": "S-00009469",
+   "subsidy_max_limit": 5511246000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度東京都医療機関等物価高騰緊急対策支援金 （病院・有床診療所・有床助産所申請用）"
   },
   {
    "acceptance_end_datetime": "2026-08-17T03:00:00.000Z",
@@ -1013,6 +980,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-21T03:00:00.000Z",
+   "id": "a0WJ200000CDczgMAD",
+   "institution_name": null,
+   "name": "S-00009464",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【令和７年度補正 グローバルサウス未来志向型共創等事業費補助金（ウクライナ復興支援に向けた欧州企業連携・中東欧諸国等連携強化）（FS実証・実証事業実施事業者の募集（補助））】"
   },
   {
    "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
@@ -2652,6 +2630,28 @@
    "target_area_search": "長野県",
    "target_number_of_employees": "300名以下",
    "title": "【長野県茅野市】中小企業人材育成等支援補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2025-07-25T00:00:00.000Z",
+   "id": "a0WJ200000CDRArMAP",
+   "institution_name": null,
+   "name": "S-00006978",
+   "subsidy_max_limit": 141000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和７年度こどもDX推進に向けた医療機関等におけるマイナンバーカード利活用推進事業補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2024-09-27T00:00:00.000Z",
+   "id": "a0WJ20000087jeOMAQ",
+   "institution_name": null,
+   "name": "S-00005217",
+   "subsidy_max_limit": 141000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和６年度こどもDX推進に向けた医療機関等におけるマイナンバーカード利活用推進事業補助金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
