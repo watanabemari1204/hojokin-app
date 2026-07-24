@@ -1,51 +1,7 @@
 {
- "checkedAt": "2026-07-23 10:29",
- "count": 312,
+ "checkedAt": "2026-07-24 10:26",
+ "count": 309,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-07-23T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-10T01:00:00.000Z",
-   "id": "a0WJ200000CDYslMAH",
-   "institution_name": null,
-   "name": "S-00009105",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「太陽光発電導入拡大等技術開発事業／NEDOプロジェクトを核とした人材育成、産学連携等の総合的展開／ペロブスカイト太陽電池の研究開発・実装を担う人材育成特別講座」の公募"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-23T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-02T01:00:00.000Z",
-   "id": "a0WJ200000CDbKSMA1",
-   "institution_name": null,
-   "name": "S-00009382",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「多感覚リアリティ、感性、質感等に関する俯瞰的調査」の公募"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-23T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-14T00:00:00.000Z",
-   "id": "a0WJ200000CDc1IMAT",
-   "institution_name": null,
-   "name": "S-00009420",
-   "subsidy_max_limit": 200000000,
-   "target_area_search": "茨城県 / 栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "第１３回（令和８年度第２回）躍進的な事業推進のための設備投資支援事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-24T01:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-22T06:00:00.000Z",
-   "id": "a0WJ200000CDbzXMAT",
-   "institution_name": null,
-   "name": "S-00009414",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【農林水産省】令和7年度補正ウクライナ農業回復緊急支援事業（２次公募）"
-  },
   {
    "acceptance_end_datetime": "2026-07-24T03:00:00.000Z",
    "acceptance_start_datetime": "2026-06-18T02:00:00.000Z",
@@ -883,6 +839,17 @@
    "title": "令和8年度 洋上風力発電人材育成事業費補助金（第2次公募）"
   },
   {
+   "acceptance_end_datetime": "2026-08-24T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-24T01:00:00.000Z",
+   "id": "a0WJ200000CDdfVMAT",
+   "institution_name": null,
+   "name": "S-00009561",
+   "subsidy_max_limit": 3000000,
+   "target_area_search": "岐阜県",
+   "target_number_of_employees": "300名以下",
+   "title": "【岐阜県・2次募集】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）"
+  },
+  {
    "acceptance_end_datetime": "2026-08-26T03:00:00.000Z",
    "acceptance_start_datetime": "2026-06-12T03:00:00.000Z",
    "id": "a0WJ200000CDaMQMA1",
@@ -1665,17 +1632,6 @@
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
-   "id": "a0W2x000007CStEEAW",
-   "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
-   "name": "S-00002265",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
    "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
    "id": "a0WJ200000CDbPLMA1",
    "institution_name": null,
@@ -1684,6 +1640,17 @@
    "target_area_search": "福岡県",
    "target_number_of_employees": "300名以下",
    "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
+   "id": "a0W2x000007CStEEAW",
+   "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
+   "name": "S-00002265",
+   "subsidy_max_limit": 0,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
