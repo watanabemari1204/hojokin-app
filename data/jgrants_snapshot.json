@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-07-25 10:26",
+ "checkedAt": "2026-07-26 10:29",
  "count": 298,
  "subsidies": [
   {
@@ -1500,17 +1500,6 @@
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
-   "id": "a0WJ200000CDbPLMA1",
-   "institution_name": null,
-   "name": "S-00009386",
-   "subsidy_max_limit": 5000000,
-   "target_area_search": "福岡県",
-   "target_number_of_employees": "300名以下",
-   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
    "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
    "id": "a0W2x000007CStEEAW",
    "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
@@ -1519,6 +1508,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
+   "id": "a0WJ200000CDbPLMA1",
+   "institution_name": null,
+   "name": "S-00009386",
+   "subsidy_max_limit": 5000000,
+   "target_area_search": "福岡県",
+   "target_number_of_employees": "300名以下",
+   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
