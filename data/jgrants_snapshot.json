@@ -1,6 +1,6 @@
 {
- "checkedAt": "2026-07-26 10:29",
- "count": 298,
+ "checkedAt": "2026-07-27 10:47",
+ "count": 302,
  "subsidies": [
   {
    "acceptance_end_datetime": "2026-07-27T03:00:00.000Z",
@@ -543,6 +543,17 @@
   },
   {
    "acceptance_end_datetime": "2026-08-17T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-27T01:00:00.000Z",
+   "id": "a0WJ200000CDcFAMA1",
+   "institution_name": null,
+   "name": "S-00009424",
+   "subsidy_max_limit": 15000000,
+   "target_area_search": "沖縄県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度酒類業振興支援事業費補助金（第３期）"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-17T03:00:00.000Z",
    "acceptance_start_datetime": "2026-07-14T01:00:00.000Z",
    "id": "a0WJ200000CDc0sMAD",
    "institution_name": null,
@@ -551,6 +562,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "「次世代冷却に係るマテリアル・デバイスの開発動向に関する調査」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-17T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-27T00:00:00.000Z",
+   "id": "a0WJ200000CDdapMAD",
+   "institution_name": null,
+   "name": "S-00009536",
+   "subsidy_max_limit": 15000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度地域資源活用製品等の開発・販売促進事業"
   },
   {
    "acceptance_end_datetime": "2026-08-19T08:00:00.000Z",
@@ -817,6 +839,17 @@
    "title": "令和８年度ゼロエミッション推進に向けた事業転換支援事業（製品開発助成）"
   },
   {
+   "acceptance_end_datetime": "2026-09-09T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-27T01:00:00.000Z",
+   "id": "a0WJ200000CDdQxMAL",
+   "institution_name": null,
+   "name": "S-00009526",
+   "subsidy_max_limit": 15000000,
+   "target_area_search": "沖縄県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度酒類業振興支援事業費補助金（第４期）"
+  },
+  {
    "acceptance_end_datetime": "2026-09-11T07:45:00.000Z",
    "acceptance_start_datetime": "2026-04-13T01:00:00.000Z",
    "id": "a0WJ200000CDWngMAH",
@@ -892,6 +925,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和８年度　水力発電導入促進支援事業費補助金（既存設備有効活用強化支援事業）公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-30T02:49:00.000Z",
+   "acceptance_start_datetime": "2026-04-30T02:49:00.000Z",
+   "id": "a0WJ200000CDdgEMAT",
+   "institution_name": null,
+   "name": "S-00009564",
+   "subsidy_max_limit": 15000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "東京都商店街デジタル化推進事業費補助金"
   },
   {
    "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
@@ -2293,17 +2337,6 @@
   {
    "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
    "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-   "id": "a0WJ200000CDY9gMAH",
-   "institution_name": null,
-   "name": "S-00008518",
-   "subsidy_max_limit": 20000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "title": "令和8年度省エネ型VOC排出削減設備導入促進事業"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
    "id": "a0WJ200000CDZz2MAH",
    "institution_name": null,
    "name": "S-00009253",
@@ -2311,6 +2344,17 @@
    "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【愛知県大府市】大府市産業立地の奨励措置"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
+   "id": "a0WJ200000CDY9gMAH",
+   "institution_name": null,
+   "name": "S-00008518",
+   "subsidy_max_limit": 20000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "title": "令和8年度省エネ型VOC排出削減設備導入促進事業"
   },
   {
    "acceptance_end_datetime": "2027-03-31T08:15:00.000Z",
