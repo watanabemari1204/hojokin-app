@@ -1,18 +1,7 @@
 {
- "checkedAt": "2026-07-28 10:21",
- "count": 300,
+ "checkedAt": "2026-07-29 10:22",
+ "count": 304,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-07-28T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-06T01:00:00.000Z",
-   "id": "a0WJ200000CDbonMAD",
-   "institution_name": null,
-   "name": "S-00009400",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「インフラ管理DXにおける地下埋設物データ整備手法活用の人材育成講座のあり方に関する調査」の公募"
-  },
   {
    "acceptance_end_datetime": "2026-07-29T03:00:00.000Z",
    "acceptance_start_datetime": "2026-07-07T04:45:00.000Z",
@@ -378,6 +367,17 @@
   },
   {
    "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-06T01:00:00.000Z",
+   "id": "a0WJ200000CDbonMAD",
+   "institution_name": null,
+   "name": "S-00009400",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「インフラ管理DXにおける地下埋設物データ整備手法活用の人材育成講座のあり方に関する調査」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-07T03:00:00.000Z",
    "acceptance_start_datetime": "2026-07-09T05:00:00.000Z",
    "id": "a0WJ200000CDc0OMAT",
    "institution_name": null,
@@ -485,6 +485,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "「カーボンリサイクル実現を加速するバイオ由来製品生産技術の開発に関する調査」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-12T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-29T01:00:00.000Z",
+   "id": "a0WJ200000CDdbOMAT",
+   "institution_name": null,
+   "name": "S-00009541",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「経済安全保障重要技術育成プログラム／先進的サイバー防御機能・分析能力強化／サイバーセキュリティにかかる国内外の動向調査」の公募"
   },
   {
    "acceptance_end_datetime": "2026-08-14T08:00:00.000Z",
@@ -872,6 +883,28 @@
    "title": "令和８年度医療機関診療情報サイバーセキュリティ対策支援事業"
   },
   {
+   "acceptance_end_datetime": "2026-09-14T06:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-28T06:00:00.000Z",
+   "id": "a0WJ200000CDd5SMAT",
+   "institution_name": null,
+   "name": "S-00009476",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【一次公募】"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-14T06:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-28T06:00:00.000Z",
+   "id": "a0WJ200000CDYlTMAX",
+   "institution_name": null,
+   "name": "S-00009026",
+   "subsidy_max_limit": 20000000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）"
+  },
+  {
    "acceptance_end_datetime": "2026-09-18T08:00:00.000Z",
    "acceptance_start_datetime": "2026-06-18T07:00:00.000Z",
    "id": "a0WJ200000CDb6JMAT",
@@ -1211,6 +1244,17 @@
    "target_area_search": "鹿児島県",
    "target_number_of_employees": "300名以下",
    "title": "【鹿児島県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）"
+  },
+  {
+   "acceptance_end_datetime": "2026-11-13T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-28T07:00:00.000Z",
+   "id": "a0WJ200000CDNDnMAP",
+   "institution_name": null,
+   "name": "S-00006576",
+   "subsidy_max_limit": 1500000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業"
   },
   {
    "acceptance_end_datetime": "2026-11-13T09:00:00.000Z",
@@ -2006,17 +2050,6 @@
   },
   {
    "acceptance_end_datetime": "2027-02-28T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDY1VMAX",
-   "institution_name": null,
-   "name": "S-00008389",
-   "subsidy_max_limit": 0,
-   "target_area_search": "長野県",
-   "target_number_of_employees": "300名以下",
-   "title": "【長野県茅野市】製造業等労務環境改善・競争力強化促進補助金"
-  },
-  {
-   "acceptance_end_datetime": "2027-02-28T14:59:00.000Z",
    "acceptance_start_datetime": "2026-05-29T05:00:00.000Z",
    "id": "a0WJ200000CDYnpMAH",
    "institution_name": null,
@@ -2036,6 +2069,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和６年度補正予算　商用車等の電動化促進事業"
+  },
+  {
+   "acceptance_end_datetime": "2027-02-28T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDY1VMAX",
+   "institution_name": null,
+   "name": "S-00008389",
+   "subsidy_max_limit": 0,
+   "target_area_search": "長野県",
+   "target_number_of_employees": "300名以下",
+   "title": "【長野県茅野市】製造業等労務環境改善・競争力強化促進補助金"
   },
   {
    "acceptance_end_datetime": "2027-02-28T15:00:00.000Z",
@@ -2545,14 +2589,25 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-07-15T00:00:00.000Z",
-   "id": "a0WJ200000CDbHxMAL",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDY1zMAH",
    "institution_name": null,
-   "name": "S-00009377",
-   "subsidy_max_limit": 141000,
-   "target_area_search": "東京都",
+   "name": "S-00008395",
+   "subsidy_max_limit": 0,
+   "target_area_search": "長野県",
    "target_number_of_employees": "従業員数の制約なし",
-   "title": "【令和８年度】医療機関等におけるマイナンバーカード利活用推進事業補助金"
+   "title": "【長野県茅野市】雇用促進奨励金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDY1uMAH",
+   "institution_name": null,
+   "name": "S-00008394",
+   "subsidy_max_limit": 0,
+   "target_area_search": "長野県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【長野県茅野市】インターンシップ等促進事業補助金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
@@ -2564,6 +2619,17 @@
    "target_area_search": "長野県",
    "target_number_of_employees": "300名以下",
    "title": "【長野県茅野市】中小企業人材育成等支援補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-07-15T00:00:00.000Z",
+   "id": "a0WJ200000CDbHxMAL",
+   "institution_name": null,
+   "name": "S-00009377",
+   "subsidy_max_limit": 141000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【令和８年度】医療機関等におけるマイナンバーカード利活用推進事業補助金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
@@ -2586,28 +2652,6 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和６年度こどもDX推進に向けた医療機関等におけるマイナンバーカード利活用推進事業補助金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDY1zMAH",
-   "institution_name": null,
-   "name": "S-00008395",
-   "subsidy_max_limit": 0,
-   "target_area_search": "長野県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【長野県茅野市】雇用促進奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDY1uMAH",
-   "institution_name": null,
-   "name": "S-00008394",
-   "subsidy_max_limit": 0,
-   "target_area_search": "長野県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【長野県茅野市】インターンシップ等促進事業補助金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
@@ -3304,8 +3348,5 @@
   }
  ],
  "source": "Jグランツ",
- "partialErrors": [
-  "岡山県: HTTP Error 429: Too Many Requests",
-  "山口県: HTTP Error 429: Too Many Requests"
- ]
+ "partialErrors": []
 }
