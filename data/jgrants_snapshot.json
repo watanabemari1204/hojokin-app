@@ -1,238 +1,7 @@
 {
- "checkedAt": "2026-07-31 10:30",
- "count": 307,
+ "checkedAt": "2026-08-01 10:44",
+ "count": 292,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-09T02:30:00.000Z",
-   "id": "a0WJ200000CDbHOMA1",
-   "institution_name": null,
-   "name": "S-00009375",
-   "subsidy_max_limit": 60000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和8年度当初予算　一次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
-   "acceptance_start_datetime": "2025-05-09T05:00:00.000Z",
-   "id": "a0WJ200000CDNujMAH",
-   "institution_name": null,
-   "name": "S-00006627",
-   "subsidy_max_limit": 1280000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "情報通信拠点機能強化支援事業費補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-13T01:00:00.000Z",
-   "id": "a0WJ200000CDbnjMAD",
-   "institution_name": null,
-   "name": "S-00009398",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「次世代航空機の研究開発に関する調査」の公募"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-03-25T01:00:00.000Z",
-   "id": "a0WJ200000CDXoQMAX",
-   "institution_name": null,
-   "name": "S-00008230",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「グリーンイノベーション基金事業／食料・農林水産業のCO2等削減・吸収技術の開発」の公募"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-17T00:00:00.000Z",
-   "id": "a0WJ200000CDdQsMAL",
-   "institution_name": null,
-   "name": "S-00009525",
-   "subsidy_max_limit": 20000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-01T00:00:00.000Z",
-   "id": "a0WJ200000CDYkxMAH",
-   "institution_name": null,
-   "name": "S-00009022",
-   "subsidy_max_limit": 3000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和8年度第1回 事業承継を契機とした成長支援事業(販路開拓コース)"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-07T23:30:00.000Z",
-   "id": "a0WJ200000CDanIMAT",
-   "institution_name": null,
-   "name": "S-00009331",
-   "subsidy_max_limit": 10000000,
-   "target_area_search": "石川県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度_東京大学先端科学技術研究センター共同研究創出支援事業 新技術・新製品研究開発支援事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T07:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-07T23:30:00.000Z",
-   "id": "a0WJ200000CDamPMAT",
-   "institution_name": null,
-   "name": "S-00009330",
-   "subsidy_max_limit": 2000000,
-   "target_area_search": "石川県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度_東京大学先端科学技術研究センター共同研究創出支援事業 新技術・新製品開発事業化可能性調査事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-10T00:00:00.000Z",
-   "id": "a0WJ200000CDbnoMAD",
-   "institution_name": null,
-   "name": "S-00009399",
-   "subsidy_max_limit": 8440000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度 第２回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-06T01:00:00.000Z",
-   "id": "a0WJ200000CDcyEMAT",
-   "institution_name": null,
-   "name": "S-00009459",
-   "subsidy_max_limit": 3000000,
-   "target_area_search": "熊本県",
-   "target_number_of_employees": "300名以下",
-   "title": "【熊本県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T15:00:00.000Z",
-   "id": "a0WJ200000CDckfMAD",
-   "institution_name": null,
-   "name": "S-00009453",
-   "subsidy_max_limit": 3000000,
-   "target_area_search": "島根県",
-   "target_number_of_employees": "300名以下",
-   "title": "【島根県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第３回公募）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-15T00:00:00.000Z",
-   "id": "a0WJ200000CDbYtMAL",
-   "institution_name": null,
-   "name": "S-00009389",
-   "subsidy_max_limit": 10000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "title": "R8年度第1回 インキュベーション施設支援機能強化事業助成金"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-05-01T00:00:00.000Z",
-   "id": "a0WJ200000CDZz1MAH",
-   "institution_name": null,
-   "name": "S-00009251",
-   "subsidy_max_limit": 5000000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【愛知県大府市】2026年度大府市カーボンニュートラル推進生産設備導入支援補助金（生産設備）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-22T00:00:00.000Z",
-   "id": "a0WJ200000CDbPkMAL",
-   "institution_name": null,
-   "name": "S-00009387",
-   "subsidy_max_limit": 3000000,
-   "target_area_search": "福井県",
-   "target_number_of_employees": "300名以下",
-   "title": "【ふくい産業支援センター】令和８年度_中小企業等海外展開支援事業費補助金_二次公募（海外出願支援事業）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
-   "id": "a0WJ200000CDcO9MAL",
-   "institution_name": null,
-   "name": "S-00009430",
-   "subsidy_max_limit": 1260000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "東京都若者世代職場定着促進助成金（令和８年度第３回申請受付）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
-   "id": "a0WJ200000CDcO8MAL",
-   "institution_name": null,
-   "name": "S-00009429",
-   "subsidy_max_limit": 2400000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第３回申請受付）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
-   "id": "a0WJ200000CDcO3MAL",
-   "institution_name": null,
-   "name": "S-00009428",
-   "subsidy_max_limit": 1900000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "東京都正規雇用転換安定化支援助成金（令和８年度第３回申請受付）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-07-10T01:00:00.000Z",
-   "id": "a0WJ200000CDY36MAH",
-   "institution_name": null,
-   "name": "S-00008411",
-   "subsidy_max_limit": 1500000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度課題解決型製品・サービス等の販路拡大助成"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2025-10-14T15:00:00.000Z",
-   "id": "a0WJ200000CDVdPMAX",
-   "institution_name": null,
-   "name": "S-00007370",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和７年度臨床研修費等補助金（歯科医師）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-04-14T15:00:00.000Z",
-   "id": "a0WJ200000CDY71MAH",
-   "institution_name": null,
-   "name": "S-00008483",
-   "subsidy_max_limit": 3600000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和8年度病院診療情報デジタル推進事業（事務作業支援）"
-  },
-  {
-   "acceptance_end_datetime": "2026-07-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-04-14T15:00:00.000Z",
-   "id": "a0WJ200000CDY70MAH",
-   "institution_name": null,
-   "name": "S-00008482",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和8年度病院診療情報デジタル推進事業（電子カルテシステムの整備）"
-  },
   {
    "acceptance_end_datetime": "2026-08-03T03:00:00.000Z",
    "acceptance_start_datetime": "2026-07-17T01:00:00.000Z",
@@ -463,6 +232,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "「国内外における土木・建設工事を含む事業実施の適正評価手法の調査業務」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-14T07:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-31T15:00:00.000Z",
+   "id": "a0WJ200000CDXkTMAX",
+   "institution_name": null,
+   "name": "S-00008193",
+   "subsidy_max_limit": 1500000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度展示会出展助成事業"
   },
   {
    "acceptance_end_datetime": "2026-08-14T08:00:00.000Z",
@@ -774,6 +554,17 @@
   },
   {
    "acceptance_end_datetime": "2026-08-31T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-07-31T08:00:00.000Z",
+   "id": "a0WJ200000CDcfDMAT",
+   "institution_name": null,
+   "name": "S-00009445",
+   "subsidy_max_limit": 5000000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【６次公募】令和7年度補正予算 中堅・中小・スタートアップの賃上げに向けた省力化等の大規模成長投資補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-31T08:00:00.000Z",
    "acceptance_start_datetime": "2026-07-21T01:00:00.000Z",
    "id": "a0WJ200000CDd46MAD",
    "institution_name": null,
@@ -804,6 +595,39 @@
    "target_area_search": "神奈川県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和8年度中小企業生産性向上促進事業費補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-31T08:15:00.000Z",
+   "acceptance_start_datetime": "2026-07-31T23:30:00.000Z",
+   "id": "a0WJ200000CDdodMAD",
+   "institution_name": null,
+   "name": "S-00009611",
+   "subsidy_max_limit": 1260000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "東京都若者世代職場定着促進助成金（令和８年度第４回申請受付）"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-31T08:15:00.000Z",
+   "acceptance_start_datetime": "2026-07-31T23:30:00.000Z",
+   "id": "a0WJ200000CDdoYMAT",
+   "institution_name": null,
+   "name": "S-00009610",
+   "subsidy_max_limit": 2400000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "東京都就職氷河期世代等安定就業サポート助成金（令和８年度第４回申請受付）"
+  },
+  {
+   "acceptance_end_datetime": "2026-08-31T08:15:00.000Z",
+   "acceptance_start_datetime": "2026-07-31T23:30:00.000Z",
+   "id": "a0WJ200000CDdoTMAT",
+   "institution_name": null,
+   "name": "S-00009609",
+   "subsidy_max_limit": 1900000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "東京都正規雇用転換安定化支援助成金（令和８年度第４回申請受付）"
   },
   {
    "acceptance_end_datetime": "2026-09-01T03:00:00.000Z",
@@ -1433,6 +1257,17 @@
    "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金 （業務用建築物の脱炭素改修加速化事業）"
   },
   {
+   "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-08-01T01:00:00.000Z",
+   "id": "a0WJ200000CDderMAD",
+   "institution_name": null,
+   "name": "S-00009553",
+   "subsidy_max_limit": 1000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和8年度SDS電子化補助金"
+  },
+  {
    "acceptance_end_datetime": "2026-12-01T08:00:00.000Z",
    "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
    "id": "a0WJ200000CDYR2MAP",
@@ -1512,9 +1347,9 @@
   {
    "acceptance_end_datetime": "2026-12-25T02:00:00.000Z",
    "acceptance_start_datetime": "2026-06-01T00:00:00.000Z",
-   "id": "a0WJ200000CDb6dMAD",
+   "id": "a0WJ200000CDddbMAD",
    "institution_name": null,
-   "name": "S-00009356",
+   "name": "S-00009551",
    "subsidy_max_limit": 0,
    "target_area_search": "福岡県",
    "target_number_of_employees": "300名以下",
@@ -1523,9 +1358,9 @@
   {
    "acceptance_end_datetime": "2026-12-25T02:00:00.000Z",
    "acceptance_start_datetime": "2026-06-01T00:00:00.000Z",
-   "id": "a0WJ200000CDb6YMAT",
+   "id": "a0WJ200000CDddaMAD",
    "institution_name": null,
-   "name": "S-00009355",
+   "name": "S-00009550",
    "subsidy_max_limit": 0,
    "target_area_search": "福岡県",
    "target_number_of_employees": "従業員数の制約なし",
@@ -1534,9 +1369,9 @@
   {
    "acceptance_end_datetime": "2026-12-25T02:00:00.000Z",
    "acceptance_start_datetime": "2026-06-01T00:00:00.000Z",
-   "id": "a0WJ200000CDb6TMAT",
+   "id": "a0WJ200000CDddZMAT",
    "institution_name": null,
-   "name": "S-00009354",
+   "name": "S-00009549",
    "subsidy_max_limit": 0,
    "target_area_search": "福岡県",
    "target_number_of_employees": "従業員数の制約なし",
@@ -3339,7 +3174,7 @@
    "acceptance_end_datetime": "2032-03-07T14:59:00.000Z",
    "acceptance_start_datetime": "2024-11-08T09:00:00.000Z",
    "id": "a0WJ2000000qhOQMAY",
-   "institution_name": null,
+   "institution_name": "事業再構築補助金",
    "name": "S-00005077",
    "subsidy_max_limit": 500000000,
    "target_area_search": "全国",
