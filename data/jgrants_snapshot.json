@@ -1,18 +1,7 @@
 {
- "checkedAt": "2026-08-05 10:23",
+ "checkedAt": "2026-08-06 10:20",
  "count": 295,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-08-05T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-07T01:00:00.000Z",
-   "id": "a0WJ200000CDYv8MAH",
-   "institution_name": null,
-   "name": "S-00009130",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「安定供給確保支援基金事業（永久磁石）に関する効果検証調査」の公募"
-  },
   {
    "acceptance_end_datetime": "2026-08-06T03:00:00.000Z",
    "acceptance_start_datetime": "2026-07-23T01:00:00.000Z",
@@ -694,6 +683,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【令和８年度】経営力強化に向けた創意工夫チャレンジ促進事業(飲食事業者向け経営基盤強化支援（受動喫煙防止対策支援コース）)助成金"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-11T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-08-06T00:00:00.000Z",
+   "id": "a0WJ200000CDdNtMAL",
+   "institution_name": null,
+   "name": "S-00009511",
+   "subsidy_max_limit": 0,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度障害者施設等物価高騰緊急対策事業"
   },
   {
    "acceptance_end_datetime": "2026-09-11T14:59:00.000Z",
@@ -1467,17 +1467,6 @@
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
-   "id": "a0WJ200000CDbPLMA1",
-   "institution_name": null,
-   "name": "S-00009386",
-   "subsidy_max_limit": 5000000,
-   "target_area_search": "福岡県",
-   "target_number_of_employees": "300名以下",
-   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
    "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
    "id": "a0W2x000007CStEEAW",
    "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
@@ -1486,6 +1475,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
+   "id": "a0WJ200000CDbPLMA1",
+   "institution_name": null,
+   "name": "S-00009386",
+   "subsidy_max_limit": 5000000,
+   "target_area_search": "福岡県",
+   "target_number_of_employees": "300名以下",
+   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
@@ -2831,17 +2831,6 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDY1QMAX",
-   "institution_name": null,
-   "name": "S-00008388",
-   "subsidy_max_limit": 500000,
-   "target_area_search": "長野県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【長野県茅野市】ＩＴ関連企業誘致奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-07-01T01:00:00.000Z",
    "id": "a0WJ200000CDa6IMAT",
    "institution_name": null,
@@ -2872,6 +2861,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "東京都環境保全資金融資あっせん"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDY1QMAX",
+   "institution_name": null,
+   "name": "S-00008388",
+   "subsidy_max_limit": 500000,
+   "target_area_search": "長野県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【長野県茅野市】ＩＴ関連企業誘致奨励金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
