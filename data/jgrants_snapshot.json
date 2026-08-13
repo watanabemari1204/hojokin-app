@@ -1,18 +1,7 @@
 {
- "checkedAt": "2026-08-12 09:56",
- "count": 289,
+ "checkedAt": "2026-08-13 09:57",
+ "count": 290,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-08-12T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-29T01:00:00.000Z",
-   "id": "a0WJ200000CDdbOMAT",
-   "institution_name": null,
-   "name": "S-00009541",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "「経済安全保障重要技術育成プログラム／先進的サイバー防御機能・分析能力強化／サイバーセキュリティにかかる国内外の動向調査」の公募"
-  },
   {
    "acceptance_end_datetime": "2026-08-14T03:00:00.000Z",
    "acceptance_start_datetime": "2026-07-31T01:00:00.000Z",
@@ -507,6 +496,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "GX地域共創補助金2026"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-01T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-08-12T02:00:00.000Z",
+   "id": "a0WJ200000CDYDcMAP",
+   "institution_name": null,
+   "name": "S-00008586",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金"
   },
   {
    "acceptance_end_datetime": "2026-09-04T06:00:00.000Z",
@@ -2765,17 +2765,6 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDY1QMAX",
-   "institution_name": null,
-   "name": "S-00008388",
-   "subsidy_max_limit": 500000,
-   "target_area_search": "長野県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【長野県茅野市】ＩＴ関連企業誘致奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-07-01T01:00:00.000Z",
    "id": "a0WJ200000CDa6IMAT",
    "institution_name": null,
@@ -2806,6 +2795,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "東京都環境保全資金融資あっせん"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDY1QMAX",
+   "institution_name": null,
+   "name": "S-00008388",
+   "subsidy_max_limit": 500000,
+   "target_area_search": "長野県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【長野県茅野市】ＩＴ関連企業誘致奨励金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
@@ -2916,6 +2916,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "300名以下",
    "title": "令和6年度　ES（社員満足度）向上による若手人材確保・定着事業助成金～１年目申請用～"
+  },
+  {
+   "acceptance_end_datetime": "2028-03-31T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-04-03T08:00:00.000Z",
+   "id": "a0WJ200000CDdtMMAT",
+   "institution_name": null,
+   "name": "S-00009639",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）"
   },
   {
    "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
