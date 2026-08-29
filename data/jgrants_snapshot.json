@@ -1,73 +1,7 @@
 {
- "checkedAt": "2026-08-28 16:24",
- "count": 314,
+ "checkedAt": "2026-08-29 13:35",
+ "count": 308,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-08-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-21T15:00:00.000Z",
-   "id": "a0WJ200000CDdrNMAT",
-   "institution_name": null,
-   "name": "S-00009628",
-   "subsidy_max_limit": 3000000,
-   "target_area_search": "鳥取県",
-   "target_number_of_employees": "300名以下",
-   "title": "【鳥取県】令和８年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（二次公募）"
-  },
-  {
-   "acceptance_end_datetime": "2026-08-28T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-07-24T07:00:00.000Z",
-   "id": "a0WJ200000CDdPVMA1",
-   "institution_name": null,
-   "name": "S-00009522",
-   "subsidy_max_limit": 500000000,
-   "target_area_search": "山口県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度カーボンニュートラルコンビナート構築促進補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-08-28T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-07-24T07:00:00.000Z",
-   "id": "a0WJ200000CDdPQMA1",
-   "institution_name": null,
-   "name": "S-00009521",
-   "subsidy_max_limit": 300000000,
-   "target_area_search": "山口県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度カーボンニュートラルコンビナート構築促進補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-08-28T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-07-24T07:00:00.000Z",
-   "id": "a0WJ200000CDdPLMA1",
-   "institution_name": null,
-   "name": "S-00009520",
-   "subsidy_max_limit": 100000000,
-   "target_area_search": "山口県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度カーボンニュートラルコンビナート構築促進補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-08-28T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-07-24T07:00:00.000Z",
-   "id": "a0WJ200000CDdPGMA1",
-   "institution_name": null,
-   "name": "S-00009519",
-   "subsidy_max_limit": 500000000,
-   "target_area_search": "山口県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度カーボンニュートラルコンビナート構築促進補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-08-28T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-07-24T07:00:00.000Z",
-   "id": "a0WJ200000CDdP1MAL",
-   "institution_name": null,
-   "name": "S-00009514",
-   "subsidy_max_limit": 50000000,
-   "target_area_search": "山口県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度カーボンニュートラルコンビナート構築促進補助金"
-  },
   {
    "acceptance_end_datetime": "2026-08-29T14:59:00.000Z",
    "acceptance_start_datetime": "2025-06-30T09:00:00.000Z",
@@ -829,17 +763,6 @@
   },
   {
    "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-05-15T01:00:00.000Z",
-   "id": "a0WJ200000CDYr0MAH",
-   "institution_name": null,
-   "name": "S-00009090",
-   "subsidy_max_limit": 3000000,
-   "target_area_search": "北海道",
-   "target_number_of_employees": "300名以下",
-   "title": "「賃上げ環境整備補助金2026」"
-  },
-  {
-   "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
    "acceptance_start_datetime": "2026-08-21T06:00:00.000Z",
    "id": "a0WJ200000CDdu0MAD",
    "institution_name": null,
@@ -925,6 +848,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【令和８年度】二酸化炭素排出抑制対策事業費等補助金（低炭素型建材活用新築ZEB支援事業）（二次公募）"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-05-15T01:00:00.000Z",
+   "id": "a0WJ200000CDYr0MAH",
+   "institution_name": null,
+   "name": "S-00009090",
+   "subsidy_max_limit": 3000000,
+   "target_area_search": "北海道",
+   "target_number_of_employees": "300名以下",
+   "title": "「賃上げ環境整備補助金2026」"
   },
   {
    "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
