@@ -1,29 +1,7 @@
 {
- "checkedAt": "2026-09-01 11:22",
- "count": 353,
+ "checkedAt": "2026-09-02 10:44",
+ "count": 360,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-09-01T03:00:00.000Z",
-   "acceptance_start_datetime": "2026-07-17T07:00:00.000Z",
-   "id": "a0WJ200000CDdJhMAL",
-   "institution_name": null,
-   "name": "S-00009494",
-   "subsidy_max_limit": 25000000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "GX地域共創補助金2026"
-  },
-  {
-   "acceptance_end_datetime": "2026-09-01T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-08-12T02:00:00.000Z",
-   "id": "a0WJ200000CDYDcMAP",
-   "institution_name": null,
-   "name": "S-00008586",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金"
-  },
   {
    "acceptance_end_datetime": "2026-09-03T08:00:00.000Z",
    "acceptance_start_datetime": "2026-08-14T00:00:00.000Z",
@@ -78,17 +56,6 @@
    "target_area_search": "北海道",
    "target_number_of_employees": "300名以下",
    "title": "2026年度「海外出願支援事業」（2次募集）"
-  },
-  {
-   "acceptance_end_datetime": "2026-09-04T09:00:00.000Z",
-   "acceptance_start_datetime": "2026-05-11T04:00:00.000Z",
-   "id": "a0WJ200000CDYiDMAX",
-   "institution_name": null,
-   "name": "S-00008982",
-   "subsidy_max_limit": 2766000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和8年度「GX戦略地域制度におけるコンビナート等再生に向けた 事業化促進事業」に係る間接補助事業者の公募"
   },
   {
    "acceptance_end_datetime": "2026-09-07T03:00:00.000Z",
@@ -399,6 +366,61 @@
    "title": "【令和７年度】二酸化炭素排出抑制対策事業費等補助金（水インフラにおける脱炭素化推進事業）［四次公募］"
   },
   {
+   "acceptance_end_datetime": "2026-09-24T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
+   "id": "a0WJ200000CDeXgMAL",
+   "institution_name": null,
+   "name": "S-00009805",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【二次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
+   "id": "a0WJ200000CDeO6MAL",
+   "institution_name": null,
+   "name": "S-00009761",
+   "subsidy_max_limit": 2900000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和8年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第3回公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
+   "id": "a0WJ200000CDeNwMAL",
+   "institution_name": null,
+   "name": "S-00009759",
+   "subsidy_max_limit": 340000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和7年度_産油国石油精製技術等対策事業費補助金（石油天然ガス権益・安定供給の確保に向けた資源国との関係強化支援事業のうち産油・産ガス国産業協力等事業に係るもの）_第5回公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
+   "id": "a0WJ200000CDeO1MAL",
+   "institution_name": null,
+   "name": "S-00009760",
+   "subsidy_max_limit": 1200000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和8年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第3回公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-01T00:00:00.000Z",
+   "id": "a0WJ200000CDeNSMA1",
+   "institution_name": null,
+   "name": "S-00009757",
+   "subsidy_max_limit": 660000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和7年度_資源国脱炭素化・エネルギー転換技術等支援事業費補助金_第5回公募"
+  },
+  {
    "acceptance_end_datetime": "2026-09-25T03:00:00.000Z",
    "acceptance_start_datetime": "2026-07-21T03:00:00.000Z",
    "id": "a0WJ200000CDczgMAD",
@@ -474,6 +496,28 @@
    "target_area_search": "熊本県",
    "target_number_of_employees": "300名以下",
    "title": "【熊本県２次】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
+   "id": "a0WJ200000CDe3WMAT",
+   "institution_name": null,
+   "name": "S-00009683",
+   "subsidy_max_limit": 600000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "title": "令和８年度外国商標出願費用助成事業（第２回）"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-02T00:00:00.000Z",
+   "id": "a0WJ200000CDe3RMAT",
+   "institution_name": null,
+   "name": "S-00009682",
+   "subsidy_max_limit": 600000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "title": "令和８年度外国意匠出願費用助成事業（第２回）"
   },
   {
    "acceptance_end_datetime": "2026-09-25T08:00:00.000Z",
@@ -573,6 +617,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "「GXイノベーション・エコシステム構築事業推進に向けたフロンティア領域の探索・重点支援のためのマネジメント手法の構築」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-30T07:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-01T05:00:00.000Z",
+   "id": "a0WJ200000CDe9hMAD",
+   "institution_name": null,
+   "name": "S-00009736",
+   "subsidy_max_limit": 20000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【第２回】中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業"
   },
   {
    "acceptance_end_datetime": "2026-09-30T07:00:00.000Z",
@@ -928,6 +983,17 @@
   },
   {
    "acceptance_end_datetime": "2026-10-09T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-01T05:00:00.000Z",
+   "id": "a0WJ200000CDeS9MAL",
+   "institution_name": null,
+   "name": "S-00009770",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和７年度（補正予算）地域共生を目指したデータセンター脱炭素化設備導入支援事業（三次公募）"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-09T03:00:00.000Z",
    "acceptance_start_datetime": "2026-08-21T05:00:00.000Z",
    "id": "a0WJ200000CDdnJMAT",
    "institution_name": "脱炭素成長型経済構造移行推進対策費補助金（ゼロエミッション船等の建造促進事業）",
@@ -947,6 +1013,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和８年度 非石油由来製品等開発支援事業"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-09T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-08-28T05:00:00.000Z",
+   "id": "a0WJ200000CDeQmMAL",
+   "institution_name": null,
+   "name": "S-00009766",
+   "subsidy_max_limit": 10000000,
+   "target_area_search": "福井県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "伝統的工芸品産業支援補助金（令和8年度第2回災害復興事業）"
   },
   {
    "acceptance_end_datetime": "2026-10-12T14:59:00.000Z",

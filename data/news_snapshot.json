@@ -1,6 +1,28 @@
 {
- "checkedAt": "2026-09-01 11:22",
+ "checkedAt": "2026-09-02 10:44",
  "news": [
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "業務改善助成金 開始",
+   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
+   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-09-02",
+   "grantName": "",
+   "source": "https://www.youtube.com/shorts/bifQ5UjUVdY"
+  },
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "【超速報】本日9月1日開始・みんな知らない100パーセント補助金の場合も・賃上げ補助金・業務改善助成金2026募集開始【中小企業診断士・行政書士 マキノヤ先生】",
+   "summary": "【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、もらえる補助金・助成金をチェック → https://lin.ee/mheCegv （提供：株式会社西河マネジメントセンター・社会保険労務士：西河経営・労務管理事務所、行政書士西河事務所） 無料で専門家を紹介・補助金・助成金の申請サポートや活用希望の方はこちらから→ ",
+   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-09-01",
+   "grantName": "",
+   "source": "https://www.youtube.com/watch?v=Z5td9xAHjmM"
+  },
   {
    "level": "high",
    "label": "マキノヤ先生 新着動画",
@@ -22,28 +44,6 @@
    "checkedAt": "動画公開 2026-08-31",
    "grantName": "",
    "source": "https://www.youtube.com/shorts/erlT5CwVSwM"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "【週刊】8月30日今週の補助金助成金情報イッキ見配信・概算要求でバブル再来あるのか・新補助金・総まとめダイジェスト版・聞き流し作業【マキノヤ先生】",
-   "summary": "＜専門家を無料紹介：補助金・助成金の申請サポートや活用希望の方はこちらから＞ 【無料】補助金・助成金専門家紹介フォーム https://forms.gle/NXexN3JCBB2Du1TE7 【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、もらえる補助金・助成金をチェック → https://lin.ee/mheC",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-08-30",
-   "grantName": "",
-   "source": "https://www.youtube.com/watch?v=hQcbOXc_I9U"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "新たしい補助金情報",
-   "summary": "＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 【無料】補助金・助成金専門家紹介フォーム https://forms.gle/NXexN3JCBB2Du1TE7",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-08-29",
-   "grantName": "",
-   "source": "https://www.youtube.com/shorts/NRi5V4Wobbs"
   }
  ]
 }
