@@ -1,6 +1,6 @@
 {
- "checkedAt": "2026-09-06 10:38",
- "count": 363,
+ "checkedAt": "2026-09-07 10:37",
+ "count": 367,
  "subsidies": [
   {
    "acceptance_end_datetime": "2026-09-07T03:00:00.000Z",
@@ -521,6 +521,17 @@
   },
   {
    "acceptance_end_datetime": "2026-09-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
+   "id": "a0WJ200000CDe3zMAD",
+   "institution_name": null,
+   "name": "S-00009687",
+   "subsidy_max_limit": 3000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "300名以下",
+   "title": "【令和８年度・第４回】INPIT外国出願補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-28T08:00:00.000Z",
    "acceptance_start_datetime": "2025-02-14T08:00:00.000Z",
    "id": "a0WJ200000CDTzMMAX",
    "institution_name": null,
@@ -817,6 +828,17 @@
    "title": "令和８年度経営統合等による産業力強化支援事業（単体枠）"
   },
   {
+   "acceptance_end_datetime": "2026-09-30T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-06T15:00:00.000Z",
+   "id": "a0WJ200000CDW8bMAH",
+   "institution_name": null,
+   "name": "S-00007574",
+   "subsidy_max_limit": 5000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度製品改良／規格適合・認証取得支援事業"
+  },
+  {
    "acceptance_end_datetime": "2026-09-30T08:15:00.000Z",
    "acceptance_start_datetime": "2026-08-31T23:30:00.000Z",
    "id": "a0WJ200000CDeUDMA1",
@@ -1046,6 +1068,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "［第六回以降］事業再構築補助金（共同申請者）"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-16T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-07T01:00:00.000Z",
+   "id": "a0WJ200000CDKZFMA5",
+   "institution_name": null,
+   "name": "S-00006173",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度_グリーンスローモビリティ等導入促進事業（二次公募）"
   },
   {
    "acceptance_end_datetime": "2026-10-16T08:00:00.000Z",
@@ -1621,17 +1654,6 @@
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
-   "id": "a0WJ200000CDbPLMA1",
-   "institution_name": null,
-   "name": "S-00009386",
-   "subsidy_max_limit": 5000000,
-   "target_area_search": "福岡県",
-   "target_number_of_employees": "300名以下",
-   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
    "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
    "id": "a0W2x000007CStEEAW",
    "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
@@ -1640,6 +1662,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
+   "id": "a0WJ200000CDbPLMA1",
+   "institution_name": null,
+   "name": "S-00009386",
+   "subsidy_max_limit": 5000000,
+   "target_area_search": "福岡県",
+   "target_number_of_employees": "300名以下",
+   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
@@ -1761,6 +1794,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "建築ＧＸ・ＤX推進事業（令和８年度）【代表事業者及び事業者の登録】"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-09-07T00:00:00.000Z",
+   "id": "a0WJ200000CDaTCMA1",
+   "institution_name": null,
+   "name": "S-00009311",
+   "subsidy_max_limit": 200000000,
+   "target_area_search": "栃木県 / 群馬県 / 埼玉県 / 千葉県 / 東京都 / 神奈川県 / 山梨県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年_設備投資_事業化状況報告"
   },
   {
    "acceptance_end_datetime": "2027-01-14T14:59:00.000Z",
@@ -2469,17 +2513,6 @@
   {
    "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
    "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-   "id": "a0WJ200000CDY9gMAH",
-   "institution_name": null,
-   "name": "S-00008518",
-   "subsidy_max_limit": 20000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "title": "令和8年度省エネ型VOC排出削減設備導入促進事業"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
    "id": "a0WJ200000CDZz2MAH",
    "institution_name": null,
    "name": "S-00009253",
@@ -2487,6 +2520,17 @@
    "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【愛知県大府市】大府市産業立地の奨励措置"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
+   "id": "a0WJ200000CDY9gMAH",
+   "institution_name": null,
+   "name": "S-00008518",
+   "subsidy_max_limit": 20000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "300名以下",
+   "title": "令和8年度省エネ型VOC排出削減設備導入促進事業"
   },
   {
    "acceptance_end_datetime": "2027-03-31T08:15:00.000Z",
