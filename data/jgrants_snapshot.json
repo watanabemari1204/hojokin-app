@@ -1,6 +1,6 @@
 {
- "checkedAt": "2026-09-13 10:46",
- "count": 364,
+ "checkedAt": "2026-09-14 11:04",
+ "count": 369,
  "subsidies": [
   {
    "acceptance_end_datetime": "2026-09-14T06:00:00.000Z",
@@ -477,6 +477,17 @@
   },
   {
    "acceptance_end_datetime": "2026-09-30T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
+   "id": "a0WJ200000CDeTjMAL",
+   "institution_name": null,
+   "name": "S-00009784",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「情報基盤システムの基本構想に関する分析調査」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-09-30T03:00:00.000Z",
    "acceptance_start_datetime": "2026-08-26T01:00:00.000Z",
    "id": "a0WJ200000CDdmLMAT",
    "institution_name": null,
@@ -872,6 +883,17 @@
    "title": "令和8年度当初予算　二次公募　民間企業等による再エネの導入及び地域共生加速化事業のうち、ストレージパリティの達成に向けた太陽光発電設備等の価格低減促進事業"
   },
   {
+   "acceptance_end_datetime": "2026-10-02T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
+   "id": "a0WJ200000CDeT0MAL",
+   "institution_name": null,
+   "name": "S-00009776",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「2026年度NEDO情報セキュリティ監査業務」の公募"
+  },
+  {
    "acceptance_end_datetime": "2026-10-02T08:00:00.000Z",
    "acceptance_start_datetime": "2026-09-03T15:00:00.000Z",
    "id": "a0WfQ000003DgHRUA0",
@@ -1004,6 +1026,17 @@
    "title": "［第六回以降］事業再構築補助金（共同申請者）"
   },
   {
+   "acceptance_end_datetime": "2026-10-13T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-14T00:00:00.000Z",
+   "id": "a0WfQ000003EVJxUAO",
+   "institution_name": null,
+   "name": "S-00009847",
+   "subsidy_max_limit": 500000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度（秋公募）コールドチェーンを支える冷凍冷蔵機器の脱フロン・脱炭素化推進事業"
+  },
+  {
    "acceptance_end_datetime": "2026-10-15T03:00:00.000Z",
    "acceptance_start_datetime": "2026-09-11T03:00:00.000Z",
    "id": "a0WfQ000003BrAXUA0",
@@ -1061,17 +1094,6 @@
   {
    "acceptance_end_datetime": "2026-10-16T14:59:00.000Z",
    "acceptance_start_datetime": "2026-08-30T15:00:00.000Z",
-   "id": "a0WJ200000CDUheMAH",
-   "institution_name": null,
-   "name": "S-00007197",
-   "subsidy_max_limit": 100000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度訪問系介護サービス事業所に対する防犯機器等導入支援補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-16T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-08-30T15:00:00.000Z",
    "id": "a0WJ200000CDUhfMAH",
    "institution_name": null,
    "name": "S-00007198",
@@ -1079,6 +1101,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和８年度訪問介護員等補助者同行支援補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-16T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-08-30T15:00:00.000Z",
+   "id": "a0WJ200000CDUheMAH",
+   "institution_name": null,
+   "name": "S-00007197",
+   "subsidy_max_limit": 100000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度訪問系介護サービス事業所に対する防犯機器等導入支援補助金"
   },
   {
    "acceptance_end_datetime": "2026-10-19T03:00:00.000Z",
@@ -1090,6 +1123,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "「地域未利用バイオマスを活用したバイオガスの産業熱利用推進に向けた動向調査」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-20T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-14T01:00:00.000Z",
+   "id": "a0WJ200000CDeVeMAL",
+   "institution_name": null,
+   "name": "S-00009793",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「『ディープテック・スタートアップ支援基金／国際共同研究開発』新規採択支援業務及び潜在的案件発掘促進を目的とした情報発信手法に関する調査」の公募"
   },
   {
    "acceptance_end_datetime": "2026-10-22T08:00:00.000Z",
@@ -1112,6 +1156,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "［第十三回］事業再構築補助金_GX進出類型（交付申請等）"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-13T15:00:00.000Z",
+   "id": "a0WfQ000003Bwa1UAC",
+   "institution_name": null,
+   "name": "S-00009822",
+   "subsidy_max_limit": 20000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度第２回募集　課題解決型技術開発促進事業（試作品開発・改良助成）"
   },
   {
    "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
