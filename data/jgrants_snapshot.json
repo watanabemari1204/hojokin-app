@@ -1,62 +1,7 @@
 {
- "checkedAt": "2026-10-01 11:50",
- "count": 332,
+ "checkedAt": "2026-10-02 11:53",
+ "count": 326,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-10-01T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
-   "id": "a0WJ200000CDYRHMA5",
-   "institution_name": null,
-   "name": "S-00008685",
-   "subsidy_max_limit": 100000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "title": "令和８年度外国著作権登録費用助成事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-01T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
-   "id": "a0WJ200000CDYQoMAP",
-   "institution_name": null,
-   "name": "S-00008679",
-   "subsidy_max_limit": 1000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "title": "令和８年度特許調査費用助成事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-01T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-04-10T00:00:00.000Z",
-   "id": "a0WJ200000CDYQnMAP",
-   "institution_name": null,
-   "name": "S-00008678",
-   "subsidy_max_limit": 2000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "300名以下",
-   "title": "令和８年度外国侵害調査費用助成事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-01T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-   "id": "a0WJ200000CDe6OMAT",
-   "institution_name": null,
-   "name": "S-00009715",
-   "subsidy_max_limit": 6000000,
-   "target_area_search": "岡山県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【岡山】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-01T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-   "id": "a0WJ200000CDe66MAD",
-   "institution_name": null,
-   "name": "S-00009702",
-   "subsidy_max_limit": 6000000,
-   "target_area_search": "長野県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【長野】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）"
-  },
   {
    "acceptance_end_datetime": "2026-10-02T03:00:00.000Z",
    "acceptance_start_datetime": "2026-09-18T01:00:00.000Z",
@@ -100,17 +45,6 @@
    "target_area_search": "山口県",
    "target_number_of_employees": "300名以下",
    "title": "【山口県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第2回公募）"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
-   "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-   "id": "a0WJ200000CDW2EMAX",
-   "institution_name": null,
-   "name": "S-00007523",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "×令和６年度地域医療勤務環境改善体制整備特別事業【仕入控除税額報告】"
   },
   {
    "acceptance_end_datetime": "2026-10-02T14:59:00.000Z",
@@ -291,17 +225,6 @@
   {
    "acceptance_end_datetime": "2026-10-07T08:00:00.000Z",
    "acceptance_start_datetime": "2026-09-01T01:00:00.000Z",
-   "id": "a0WJ200000CDeC7MAL",
-   "institution_name": null,
-   "name": "S-00009740",
-   "subsidy_max_limit": 300000000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度経営統合等による産業力強化支援事業（単体枠）"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-07T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-09-01T01:00:00.000Z",
    "id": "a0WJ200000CDeC6MAL",
    "institution_name": null,
    "name": "S-00009739",
@@ -309,6 +232,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和８年度経営統合等による産業力強化支援事業（連携枠）"
+  },
+  {
+   "acceptance_end_datetime": "2026-10-07T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-01T01:00:00.000Z",
+   "id": "a0WJ200000CDeC7MAL",
+   "institution_name": null,
+   "name": "S-00009740",
+   "subsidy_max_limit": 300000000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度経営統合等による産業力強化支援事業（単体枠）"
   },
   {
    "acceptance_end_datetime": "2026-10-07T14:59:00.000Z",
@@ -984,17 +918,6 @@
   {
    "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
    "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-   "id": "a0WJ200000CDWQkMAP",
-   "institution_name": null,
-   "name": "S-00007618",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "×令和６年度勤務環境改善医師派遣等推進事業【仕入控除税額報告】"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-30T14:59:00.000Z",
-   "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
    "id": "a0WJ200000CDVu7MAH",
    "institution_name": null,
    "name": "S-00007470",
@@ -1158,6 +1081,28 @@
    "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業"
   },
   {
+   "acceptance_end_datetime": "2026-11-06T06:00:00.000Z",
+   "acceptance_start_datetime": "2026-10-01T06:00:00.000Z",
+   "id": "a0WfQ000003N8hVUAS",
+   "institution_name": null,
+   "name": "S-00009897",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源 循環システム強靱化促進事業）（事前着手届出）【二次公募】"
+  },
+  {
+   "acceptance_end_datetime": "2026-11-06T06:00:00.000Z",
+   "acceptance_start_datetime": "2026-10-01T06:00:00.000Z",
+   "id": "a0WfQ000003JPtqUAG",
+   "institution_name": null,
+   "name": "S-00009879",
+   "subsidy_max_limit": 20000000000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和８年度 脱炭素成長型経済構造移行推進対策費補助金（自律型資源循環システム強靱化促進事業）【二次公募】"
+  },
+  {
    "acceptance_end_datetime": "2026-11-10T03:00:00.000Z",
    "acceptance_start_datetime": "2026-08-28T01:00:00.000Z",
    "id": "a0WJ200000CDXkJMAX",
@@ -1277,6 +1222,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和７年度（補正予算）地域脱炭素実現に向けた具体的施策実装支援事業（四次公募）"
+  },
+  {
+   "acceptance_end_datetime": "2026-11-20T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-09-25T00:00:00.000Z",
+   "id": "a0WfQ000003ENsfUAG",
+   "institution_name": null,
+   "name": "S-00009846",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金"
   },
   {
    "acceptance_end_datetime": "2026-11-27T15:00:00.000Z",
@@ -1456,17 +1412,6 @@
   },
   {
    "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-09-25T00:00:00.000Z",
-   "id": "a0WfQ000003ENsfUAG",
-   "institution_name": null,
-   "name": "S-00009846",
-   "subsidy_max_limit": 0,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【三次公募】令和８年度　天然ガス利用設備による強靱性向上対策事業費補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-11-30T14:59:00.000Z",
    "acceptance_start_datetime": "2026-08-01T01:00:00.000Z",
    "id": "a0WJ200000CDderMAD",
    "institution_name": null,
@@ -1611,17 +1556,6 @@
   {
    "acceptance_end_datetime": "2026-12-25T08:15:00.000Z",
    "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-   "id": "a0WJ200000CDddXMAT",
-   "institution_name": null,
-   "name": "S-00009547",
-   "subsidy_max_limit": 240000,
-   "target_area_search": "山形県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【山形県】令和8年度地域主導型再生可能エネルギー導入支援事業費補助金"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-25T08:15:00.000Z",
-   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
    "id": "a0WJ200000CDddWMAT",
    "institution_name": null,
    "name": "S-00009546",
@@ -1629,6 +1563,17 @@
    "target_area_search": "山形県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【山形県】令和8年度山形県再生可能エネルギー(小水力発電)事業可能性調査事業費補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-25T08:15:00.000Z",
+   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
+   "id": "a0WJ200000CDddXMAT",
+   "institution_name": null,
+   "name": "S-00009547",
+   "subsidy_max_limit": 240000,
+   "target_area_search": "山形県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【山形県】令和8年度地域主導型再生可能エネルギー導入支援事業費補助金"
   },
   {
    "acceptance_end_datetime": "2026-12-25T14:59:00.000Z",
@@ -3301,17 +3246,6 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和８年度　病院勤務者勤務環境改善事業・救急医療体制強化事業"
-  },
-  {
-   "acceptance_end_datetime": "2027-05-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-09-16T00:00:00.000Z",
-   "id": "a0WfQ000003DRDZUA4",
-   "institution_name": null,
-   "name": "S-00009842",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度病院勤務者勤務環境改善事業・救急医療体制強化事業"
   },
   {
    "acceptance_end_datetime": "2027-05-31T14:59:00.000Z",
