@@ -1,6 +1,28 @@
 {
- "checkedAt": "2026-10-09 12:25",
+ "checkedAt": "2026-10-10 12:05",
  "news": [
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "給付金最新",
+   "summary": "補助金・助成金専門家紹介フォーム（無料） https://forms.gle/NXexN3JCBB2Du1TE7",
+   "difference": "設備購入後の経費補助ではなく、対象要件を満たした場合の定額給付・支援が中心の可能性があります。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-10-10",
+   "grantName": "",
+   "source": "https://www.youtube.com/shorts/3mF32Kl4sm0"
+  },
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "【10月受付中】給付金・支援金・個人事業主・中小企業向け・持続化給付金以降も多数の応援金・奨励金募集あり【中小企業診断士・行政書士 マキノヤ先生】",
+   "summary": "＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 補助金・助成金専門家紹介フォーム（無料） https://forms.gle/NXexN3JCBB2Du1TE7 今回は、企業や個人事業主向けに現在も募集されている全国の給付金・支援金の最新情報をご紹介。「持続化給付金はもう昔の話…」と思っていませんか？実はその後も、物価高騰対策や経営環境の変化に対",
+   "difference": "大型設備投資ではなく、小規模事業者の販路開拓や広告・店舗・ウェブ施策が中心です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-10-09",
+   "grantName": "",
+   "source": "https://www.youtube.com/watch?v=mYdN9Ty3syk"
+  },
   {
    "level": "high",
    "label": "マキノヤ先生 新着動画",
@@ -22,28 +44,6 @@
    "checkedAt": "動画公開 2026-10-08",
    "grantName": "",
    "source": "https://www.youtube.com/watch?v=_1LtvX96y7c"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "月刊補助金助成金まとめ9月版",
-   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-10-08",
-   "grantName": "",
-   "source": "https://www.youtube.com/shorts/PxY6-msy-Sg"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "【月刊】補助金・助成金・支援金・個人事業・中小企業・法人・事業者向け2026年9月度一ヶ月分総まとめ特集・イッキ見配信【中小企業診断士・行政書士 マキノヤ先生】",
-   "summary": "事業者の方向け・補助金・助成金の活用希望の方はこちらから→ https://forms.gle/NXexN3JCBB2Du1TE7 【PR】あなたはいくら、もらえる？？『３０秒でできる補助金・助成金診断』 LINE登録して、もらえる補助金・助成金をチェック → https://lin.ee/mheCegv （提供：株式会社西河マネジメントセンター・社会保険労",
-   "difference": "設備購入後の経費補助ではなく、対象要件を満たした場合の定額給付・支援が中心の可能性があります。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-10-07",
-   "grantName": "",
-   "source": "https://www.youtube.com/watch?v=WRX9hC3v9jk"
   }
  ]
 }
