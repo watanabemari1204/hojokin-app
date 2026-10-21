@@ -1,6 +1,28 @@
 {
- "checkedAt": "2026-10-20 11:25",
+ "checkedAt": "2026-10-21 11:18",
  "news": [
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "リモート・テレワーク助成金",
+   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
+   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-10-21",
+   "grantName": "",
+   "source": "https://www.youtube.com/shorts/GkBpxM-kBKk"
+  },
+  {
+   "level": "high",
+   "label": "マキノヤ先生 新着動画",
+   "title": "【最終】35万円・在宅勤務・リモートワーク・テレワーク助成金・人材確保等支援助成金（テレワークコース）・さらに奨励金・補助金等【中小企業診断士・行政書士 マキノヤ先生】",
+   "summary": "【PR】LINEで無料相談（株式会社西河マネジメントセンター・社会保険労務士：西河経営・労務管理事務所） https://lin.ee/mheCegv 今回は、今年度（2026年度）でいよいよ終了となる制度を解説。「人材確保等支援助成金（テレワークコース）」！厚生労働省系の助成金は、雇用保険に加入している従業員が1名でもいれば、要件を満たすことで誰でも受給で",
+   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
+   "target": "動画内で案内される対象者を公式要領で確認",
+   "checkedAt": "動画公開 2026-10-20",
+   "grantName": "",
+   "source": "https://www.youtube.com/watch?v=HjX3DBg6nyo"
+  },
   {
    "level": "high",
    "label": "マキノヤ先生 新着動画",
@@ -22,28 +44,6 @@
    "checkedAt": "動画公開 2026-10-18",
    "grantName": "",
    "source": "https://www.youtube.com/watch?v=lVtirR-keK4"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "補助金見直し",
-   "summary": "最新動画のタイトルから補助金・助成金関連の更新を検知しました。",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-10-17",
-   "grantName": "",
-   "source": "https://www.youtube.com/shorts/PYxRexg7Wd8"
-  },
-  {
-   "level": "high",
-   "label": "マキノヤ先生 新着動画",
-   "title": "【補助金が無くなる！？】日本版DOGE始動！終了した事業再構築補助金の基金はどこへ？【中小企業診断士・行政書士 マキノヤ先生】",
-   "summary": "＜補助金・助成金の申請サポートや活用希望の方はこちらから＞ 補助金・助成金専門家紹介フォーム（無料） https://forms.gle/NXexN3JCBB2Du1TE7 DOGEとは、米国で設置された「政府効率化省（Department of Government Efficiency）」の略称です。政府支出や行政運営の効率化を目指す組織として知られてい",
-   "difference": "従来制度から対象者、上限額、公募期間が変わっている可能性があります。公式公募要領との比較が必要です。",
-   "target": "動画内で案内される対象者を公式要領で確認",
-   "checkedAt": "動画公開 2026-10-16",
-   "grantName": "",
-   "source": "https://www.youtube.com/watch?v=KzZVd57ANkQ"
   }
  ]
 }
