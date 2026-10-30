@@ -1,40 +1,7 @@
 {
- "checkedAt": "2026-10-29 12:13",
- "count": 296,
+ "checkedAt": "2026-10-30 12:16",
+ "count": 295,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-10-29T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-10-08T06:00:00.000Z",
-   "id": "a0WJ200000CDXscMAH",
-   "institution_name": null,
-   "name": "S-00008284",
-   "subsidy_max_limit": 40000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "IP360 海外展開支援（ローカライズ支援）"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-29T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-08-31T15:00:00.000Z",
-   "id": "a0WJ200000CDduhMAD",
-   "institution_name": null,
-   "name": "S-00009654",
-   "subsidy_max_limit": 6000000,
-   "target_area_search": "山形県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【山形】令和８年度中小企業最低賃金引上げ支援対策費補助金（業務改善助成金）"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-29T14:59:00.000Z",
-   "acceptance_start_datetime": "2025-06-30T09:00:00.000Z",
-   "id": "a0WJ200000CDPyeMAH",
-   "institution_name": null,
-   "name": "S-00006849",
-   "subsidy_max_limit": 150000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "［第十三回］事業再構築補助金_GX進出類型（交付申請等）"
-  },
   {
    "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
    "acceptance_start_datetime": "2026-09-13T15:00:00.000Z",
@@ -89,17 +56,6 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【令和８年度２次公募】国立公園等利用拠点滞在環境等上質化事業（国立公園等資源整備事業費補助金）"
-  },
-  {
-   "acceptance_end_datetime": "2026-10-30T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-09-29T00:00:00.000Z",
-   "id": "a0WJ200000CDYh2MAH",
-   "institution_name": null,
-   "name": "S-00008969",
-   "subsidy_max_limit": 3000000,
-   "target_area_search": "北海道",
-   "target_number_of_employees": "300名以下",
-   "title": "2026年度「海外出願支援事業」（3次募集）"
   },
   {
    "acceptance_end_datetime": "2026-10-30T09:00:00.000Z",
@@ -529,6 +485,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "令和８年度_Scope3排出量削減のための企業間連携による省CO2設備投資促進事業"
+  },
+  {
+   "acceptance_end_datetime": "2026-11-13T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-09-29T00:00:00.000Z",
+   "id": "a0WJ200000CDYh2MAH",
+   "institution_name": null,
+   "name": "S-00008969",
+   "subsidy_max_limit": 3000000,
+   "target_area_search": "北海道",
+   "target_number_of_employees": "300名以下",
+   "title": "2026年度「海外出願支援事業」（3次募集）"
   },
   {
    "acceptance_end_datetime": "2026-11-13T09:00:00.000Z",
@@ -1731,6 +1698,17 @@
   },
   {
    "acceptance_end_datetime": "2027-02-26T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-10-07T00:00:00.000Z",
+   "id": "a0WJ200000CDc0YMAT",
+   "institution_name": null,
+   "name": "S-00009417",
+   "subsidy_max_limit": 130502000,
+   "target_area_search": "全国",
+   "target_number_of_employees": "300名以下",
+   "title": "令和８年度都市ガス分野の災害対応・レジリエンス強化に係る支援事業費補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-02-26T14:59:00.000Z",
    "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
    "id": "a0WJ200000CDK76MAH",
    "institution_name": null,
@@ -2689,17 +2667,6 @@
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDb89MAD",
-   "institution_name": null,
-   "name": "S-00009362",
-   "subsidy_max_limit": 100000000,
-   "target_area_search": "愛媛県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "今治市雇用促進奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
    "id": "a0WJ200000CDb8AMAT",
    "institution_name": null,
    "name": "S-00009363",
@@ -2707,6 +2674,17 @@
    "target_area_search": "愛媛県",
    "target_number_of_employees": "300名以下",
    "title": "今治市設備投資奨励金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDb89MAD",
+   "institution_name": null,
+   "name": "S-00009362",
+   "subsidy_max_limit": 100000000,
+   "target_area_search": "愛媛県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "今治市雇用促進奨励金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
@@ -2949,6 +2927,17 @@
    "target_area_search": "全国",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "【経済産業省】ものづくり・商業・サービス生産性向上促進補助金（23次締切）"
+  },
+  {
+   "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-10-29T15:00:00.000Z",
+   "id": "a0WfQ000003vH2PUAU",
+   "institution_name": null,
+   "name": "S-00010004",
+   "subsidy_max_limit": 0,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "中東情勢による原材料価格高騰に伴う経営基盤安定化緊急対策事業【変更承認申請/変更届/中止申請/実績報告】"
   },
   {
    "acceptance_end_datetime": "2028-03-31T14:59:00.000Z",
