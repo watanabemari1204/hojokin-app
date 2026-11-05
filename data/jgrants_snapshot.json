@@ -1,29 +1,7 @@
 {
- "checkedAt": "2026-11-04 12:40",
- "count": 281,
+ "checkedAt": "2026-11-05 12:59",
+ "count": 282,
  "subsidies": [
-  {
-   "acceptance_end_datetime": "2026-11-04T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-10-09T00:00:00.000Z",
-   "id": "a0WJ200000CDeT5MAL",
-   "institution_name": null,
-   "name": "S-00009777",
-   "subsidy_max_limit": 8440000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和８年度 第３回 若手・女性リーダー応援プログラム助成事業/商店街起業・承継支援事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-11-04T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-09-04T08:00:00.000Z",
-   "id": "a0WJ200000CDe4JMAT",
-   "institution_name": null,
-   "name": "S-00009688",
-   "subsidy_max_limit": 4000000000,
-   "target_area_search": "全国",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和７年度補正　再生可能エネルギー導入拡大・系統用蓄電池等電力貯蔵システム導入支援事業費補助金　系統用蓄電システム等導入支援事業"
-  },
   {
    "acceptance_end_datetime": "2026-11-06T03:00:00.000Z",
    "acceptance_start_datetime": "2026-10-13T02:00:00.000Z",
@@ -378,6 +356,17 @@
   },
   {
    "acceptance_end_datetime": "2026-11-25T03:00:00.000Z",
+   "acceptance_start_datetime": "2026-11-05T01:00:00.000Z",
+   "id": "a0WfQ000003tibNUAQ",
+   "institution_name": null,
+   "name": "S-00009999",
+   "subsidy_max_limit": 0,
+   "target_area_search": "全国",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "「再生可能エネルギー技術の多様化に関する動向調査」の公募"
+  },
+  {
+   "acceptance_end_datetime": "2026-11-25T03:00:00.000Z",
    "acceptance_start_datetime": "2026-11-02T01:00:00.000Z",
    "id": "a0WfQ000003tEv3UAE",
    "institution_name": null,
@@ -496,6 +485,17 @@
    "target_area_search": "福岡県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "古賀市中小企業等向け太陽光発電設備導入補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-11-30T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-11-01T15:00:00.000Z",
+   "id": "a0WfQ0000046qPpUAI",
+   "institution_name": null,
+   "name": "S-00010035",
+   "subsidy_max_limit": 3000000,
+   "target_area_search": "島根県",
+   "target_number_of_employees": "300名以下",
+   "title": "【島根県】令和8年度_中小企業等海外展開支援事業費補助金（海外出願支援事業）（第７回公募）"
   },
   {
    "acceptance_end_datetime": "2026-11-30T08:30:00.000Z",
@@ -961,17 +961,6 @@
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
-   "id": "a0WJ200000CDbPLMA1",
-   "institution_name": null,
-   "name": "S-00009386",
-   "subsidy_max_limit": 5000000,
-   "target_area_search": "福岡県",
-   "target_number_of_employees": "300名以下",
-   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
    "acceptance_start_datetime": "2023-04-03T00:00:00.000Z",
    "id": "a0W2x000007CStEEAW",
    "institution_name": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金",
@@ -980,6 +969,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "農林水産物認証取得支援事業（農家認証取得支援事業）補助金"
+  },
+  {
+   "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-06-30T23:30:00.000Z",
+   "id": "a0WJ200000CDbPLMA1",
+   "institution_name": null,
+   "name": "S-00009386",
+   "subsidy_max_limit": 5000000,
+   "target_area_search": "福岡県",
+   "target_number_of_employees": "300名以下",
+   "title": "【久留米市】中小企業先端設備等導入支援補助金（令和8年度）"
   },
   {
    "acceptance_end_datetime": "2026-12-28T08:00:00.000Z",
@@ -1126,17 +1126,6 @@
   },
   {
    "acceptance_end_datetime": "2026-12-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
-   "id": "a0WJ200000CDVm7MAH",
-   "institution_name": null,
-   "name": "S-00007438",
-   "subsidy_max_limit": 0,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業"
-  },
-  {
-   "acceptance_end_datetime": "2026-12-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-09-07T00:00:00.000Z",
    "id": "a0WJ200000CDaTCMA1",
    "institution_name": null,
@@ -1171,17 +1160,6 @@
   {
    "acceptance_end_datetime": "2027-01-14T14:59:00.000Z",
    "acceptance_start_datetime": "2026-04-09T05:00:00.000Z",
-   "id": "a0WJ200000CDK7OMAX",
-   "institution_name": null,
-   "name": "S-00006098",
-   "subsidy_max_limit": 500000,
-   "target_area_search": "東京都",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）"
-  },
-  {
-   "acceptance_end_datetime": "2027-01-14T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-04-09T05:00:00.000Z",
    "id": "a0WJ200000CDK7NMAX",
    "institution_name": null,
    "name": "S-00006097",
@@ -1189,6 +1167,17 @@
    "target_area_search": "東京都",
    "target_number_of_employees": "300名以下",
    "title": "中小企業の外国人従業員に対する研修等支援助成金（一般コース）"
+  },
+  {
+   "acceptance_end_datetime": "2027-01-14T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-04-09T05:00:00.000Z",
+   "id": "a0WJ200000CDK7OMAX",
+   "institution_name": null,
+   "name": "S-00006098",
+   "subsidy_max_limit": 500000,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "中小企業の外国人従業員に対する研修等支援助成金（ウクライナ避難民採用企業コース）"
   },
   {
    "acceptance_end_datetime": "2027-01-15T14:59:00.000Z",
@@ -1369,24 +1358,13 @@
   {
    "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW6MAP",
+   "id": "a0WJ200000CDYW2MAP",
    "institution_name": null,
-   "name": "S-00008794",
+   "name": "S-00008790",
    "subsidy_max_limit": 500000,
    "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎ものづくり支援補助金（プラットフォーム活用事業）"
-  },
-  {
-   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW5MAP",
-   "institution_name": null,
-   "name": "S-00008793",
-   "subsidy_max_limit": 300000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎ものづくり支援補助金（知的財産権取得事業）"
+   "title": "岡崎ものづくり支援補助金（共同研究事業）"
   },
   {
    "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
@@ -1402,6 +1380,28 @@
   {
    "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYW5MAP",
+   "institution_name": null,
+   "name": "S-00008793",
+   "subsidy_max_limit": 300000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎ものづくり支援補助金（知的財産権取得事業）"
+  },
+  {
+   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYW6MAP",
+   "institution_name": null,
+   "name": "S-00008794",
+   "subsidy_max_limit": 500000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎ものづくり支援補助金（プラットフォーム活用事業）"
+  },
+  {
+   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
    "id": "a0WJ200000CDYW7MAP",
    "institution_name": null,
    "name": "S-00008795",
@@ -1409,17 +1409,6 @@
    "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "岡崎ものづくり支援補助金（新製品共創事業）"
-  },
-  {
-   "acceptance_end_datetime": "2027-01-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW2MAP",
-   "institution_name": null,
-   "name": "S-00008790",
-   "subsidy_max_limit": 500000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎ものづくり支援補助金（共同研究事業）"
   },
   {
    "acceptance_end_datetime": "2027-02-01T08:15:00.000Z",
@@ -1940,6 +1929,17 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
+   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
+   "id": "a0WJ200000CDZz2MAH",
+   "institution_name": null,
+   "name": "S-00009253",
+   "subsidy_max_limit": 0,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "【愛知県大府市】大府市産業立地の奨励措置"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
    "acceptance_start_datetime": "2026-04-27T00:00:00.000Z",
    "id": "a0WJ200000CDYUXMA5",
    "institution_name": null,
@@ -1994,17 +1994,6 @@
    "title": "岸和田市オフィス誘致補助金"
   },
   {
-   "acceptance_end_datetime": "2027-03-31T08:00:00.000Z",
-   "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
-   "id": "a0WJ200000CDZz2MAH",
-   "institution_name": null,
-   "name": "S-00009253",
-   "subsidy_max_limit": 0,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "【愛知県大府市】大府市産業立地の奨励措置"
-  },
-  {
    "acceptance_end_datetime": "2027-03-31T08:15:00.000Z",
    "acceptance_start_datetime": "2026-03-31T23:30:00.000Z",
    "id": "a0WJ200000CDbz0MAD",
@@ -2014,6 +2003,17 @@
    "target_area_search": "奈良県",
    "target_number_of_employees": "300名以下",
    "title": "橿原市起業等スタートアップ補助金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T08:15:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T23:30:00.000Z",
+   "id": "a0WfQ0000047HWTUA2",
+   "institution_name": null,
+   "name": "S-00010039",
+   "subsidy_max_limit": 200000,
+   "target_area_search": "三重県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "四日市市燃料電池自動車導入促進補助金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T09:00:00.000Z",
@@ -2303,6 +2303,17 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2025-10-29T00:00:00.000Z",
+   "id": "a0WJ200000CDVm7MAH",
+   "institution_name": null,
+   "name": "S-00007438",
+   "subsidy_max_limit": 0,
+   "target_area_search": "東京都",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "令和７年度病院勤務者勤務環境改善事業・救急医療体制強化事業"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-04-01T00:00:00.000Z",
    "id": "a0WJ200000CDXoBMAX",
    "institution_name": null,
@@ -2435,6 +2446,94 @@
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDb89MAD",
+   "institution_name": null,
+   "name": "S-00009362",
+   "subsidy_max_limit": 100000000,
+   "target_area_search": "愛媛県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "今治市雇用促進奨励金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDb8AMAT",
+   "institution_name": null,
+   "name": "S-00009363",
+   "subsidy_max_limit": 10000000,
+   "target_area_search": "愛媛県",
+   "target_number_of_employees": "300名以下",
+   "title": "今治市設備投資奨励金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDb86MAD",
+   "institution_name": null,
+   "name": "S-00009359",
+   "subsidy_max_limit": 0,
+   "target_area_search": "愛媛県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "今治市企業立地促進奨励金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDb88MAD",
+   "institution_name": null,
+   "name": "S-00009361",
+   "subsidy_max_limit": 5000000,
+   "target_area_search": "愛媛県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "今治市賃貸借型企業立地奨励金（開設費用に対する奨励金）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDb87MAD",
+   "institution_name": null,
+   "name": "S-00009360",
+   "subsidy_max_limit": 18000000,
+   "target_area_search": "愛媛県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "今治市賃貸借型企業立地奨励金（賃借料に対する奨励金）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYWBMA5",
+   "institution_name": null,
+   "name": "S-00008799",
+   "subsidy_max_limit": 1000000000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎市高度先端産業立地奨励金（県連携）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYW9MAP",
+   "institution_name": null,
+   "name": "S-00008797",
+   "subsidy_max_limit": 1000000000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎市企業再投資促進奨励金（県連携）"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
+   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
+   "id": "a0WJ200000CDYW8MAP",
+   "institution_name": null,
+   "name": "S-00008796",
+   "subsidy_max_limit": 1000000000,
+   "target_area_search": "愛知県",
+   "target_number_of_employees": "従業員数の制約なし",
+   "title": "岡崎市工場等（倉庫等）建設奨励金"
+  },
+  {
+   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
    "acceptance_start_datetime": "2026-06-09T23:30:00.000Z",
    "id": "a0WJ200000CDacWMAT",
    "institution_name": null,
@@ -2509,94 +2608,6 @@
    "target_area_search": "愛知県",
    "target_number_of_employees": "従業員数の制約なし",
    "title": "岡崎ものづくり支援補助金（見本市等出展事業）"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDb8AMAT",
-   "institution_name": null,
-   "name": "S-00009363",
-   "subsidy_max_limit": 10000000,
-   "target_area_search": "愛媛県",
-   "target_number_of_employees": "300名以下",
-   "title": "今治市設備投資奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDb89MAD",
-   "institution_name": null,
-   "name": "S-00009362",
-   "subsidy_max_limit": 100000000,
-   "target_area_search": "愛媛県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "今治市雇用促進奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDb88MAD",
-   "institution_name": null,
-   "name": "S-00009361",
-   "subsidy_max_limit": 5000000,
-   "target_area_search": "愛媛県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "今治市賃貸借型企業立地奨励金（開設費用に対する奨励金）"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDb87MAD",
-   "institution_name": null,
-   "name": "S-00009360",
-   "subsidy_max_limit": 18000000,
-   "target_area_search": "愛媛県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "今治市賃貸借型企業立地奨励金（賃借料に対する奨励金）"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDb86MAD",
-   "institution_name": null,
-   "name": "S-00009359",
-   "subsidy_max_limit": 0,
-   "target_area_search": "愛媛県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "今治市企業立地促進奨励金"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYWBMA5",
-   "institution_name": null,
-   "name": "S-00008799",
-   "subsidy_max_limit": 1000000000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎市高度先端産業立地奨励金（県連携）"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW9MAP",
-   "institution_name": null,
-   "name": "S-00008797",
-   "subsidy_max_limit": 1000000000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎市企業再投資促進奨励金（県連携）"
-  },
-  {
-   "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
-   "acceptance_start_datetime": "2026-03-31T15:00:00.000Z",
-   "id": "a0WJ200000CDYW8MAP",
-   "institution_name": null,
-   "name": "S-00008796",
-   "subsidy_max_limit": 1000000000,
-   "target_area_search": "愛知県",
-   "target_number_of_employees": "従業員数の制約なし",
-   "title": "岡崎市工場等（倉庫等）建設奨励金"
   },
   {
    "acceptance_end_datetime": "2027-03-31T14:59:00.000Z",
